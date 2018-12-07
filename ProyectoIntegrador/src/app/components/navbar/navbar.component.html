@@ -1,0 +1,90 @@
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+  <a class="navbar-brand" href="#">Tanuki-Events</a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+    <form class="form-inline my-2 my-lg-0">
+      <input class="form-control mr-sm-2" type="search" placeholder="Search">
+      <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+    </form>
+
+
+    <ul class="navbar-nav  mr-auto mt-2 mt-lg-0" *ngIf= "!isTienda() && isVacio() && !isRegulador() && !isJugador()">
+      <li class="nav-item">
+          <a class="nav-link" routerLinkActive = "active" [routerLink]="['home']">Home <span class="sr-only">(current)</span></a>
+      </li>
+      <li class="nav-item">
+          <a class="nav-link" routerLinkActive = "active" [routerLink]="['login']">Login</a>
+      </li>
+
+      <li class="nav-item">
+          <a class="nav-link" routerLinkActive = "active" [routerLink]="['registrojugador']">Registrar jugador</a>
+      </li>
+        
+      <li class="nav-item">
+            <a class="nav-link" routerLinkActive = "active" [routerLink]="['registrotienda']">Registrar tienda</a>
+          </li>
+          
+          <li class="nav-item">
+          <a class="nav-link" routerLinkActive = "active" [routerLink]="['Registrousuarioregulador']">Registrar usuario regulador</a>
+          </li>
+      </ul>
+
+
+
+      <ul class="navbar-nav  mr-auto mt-2 mt-lg-0" *ngIf= "!isTienda() && !isVacio() && !isRegulador() && isJugador()">   
+      
+      <li class="nav-item">
+        <a class="nav-link" routerLinkActive = "active" [routerLink]="['Obtenerusuariojugador']">Obtener jugador</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" routerLinkActive = "active" [routerLink]="['Actualizarusuariojugador']">Actualizar datos jugador</a>
+      </li>
+      <div class = "col-md-6"  >
+        <button type="button" class="btn btn-danger btn-lg btn-block"(click)="cerrarSesion()">Cerrar Sesion</button>
+      </div>
+      <span class="navbar-toggler-icon"></span>
+  </ul>
+
+
+      <ul class="navbar-nav  mr-auto mt-2 mt-lg-0" *ngIf= "!isTienda() && !isVacio() && isRegulador() && !isJugador()">
+          <li class="nav-item">
+              <a class="nav-link" routerLinkActive = "active" [routerLink]="['Obtenereventosporaprobar']">Obtener eventos por aprobar</a>
+            </li>
+        <li class="nav-item">
+          <a class="nav-link" routerLinkActive = "active" [routerLink]="['Obtenerusuarioregulador']">Obtener usuario regulador</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" routerLinkActive = "active" [routerLink]="['Actualizarusuarioregulador']">Actualizar usuario regulador</a>
+        </li>
+        <div class = "col-md-6"  >
+          <button type="button" class="btn btn-danger btn-lg btn-block"(click)="cerrarSesion()">Cerrar Sesion</button>
+      </div>
+      <span class="navbar-toggler-icon"></span>
+    </ul>
+
+    <ul class="navbar-nav  mr-auto mt-2 mt-lg-0" *ngIf= "isTienda() && !isVacio() && !isRegulador() && !isJugador()">
+        <li class="nav-item">
+          <a class="nav-link" routerLinkActive = "active" [routerLink]="['Registroevento']">Registrar evento</a>
+        </li>
+        <li class="nav-item">
+            
+          <a class="nav-link" routerLinkActive = "active" [routerLink]="['Obtenerusuariotienda']">Obtener tienda</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" routerLinkActive = "active" [routerLink]="['Actualizarusuariotienda']">Actualizar datos tienda</a>
+        </li>
+       
+        <div class = "col-md-6"  >
+            <button type="button" class="btn btn-danger btn-lg btn-block"(click)="cerrarSesion()">Cerrar Sesion</button>
+        </div>
+        <button type="button" class="btn btn-danger btn-lg btn-block"(click)="cerrarSesion()"><span class="glyphicon glyphicon-user" aria-hidden="true">{{nombre}}</span> {{nombre}}</button>
+            
+            <span></span>
+        
+     
+    </ul>
+  </div>
+</nav>

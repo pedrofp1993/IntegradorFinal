@@ -1,0 +1,100 @@
+﻿using System;
+using System.Collections.Generic;
+using ProyectoIntegrador.Modelos;
+using System.Data.SqlClient;
+
+namespace ProyectoIntegrador.Datos
+{
+    public class EventoDatos
+    {
+        string CadenaConexion = "server=HP;database=BD_PROYECTO_ACTUALIZADA3;Integrated Security=true";
+        SqlConnection conexion;
+
+        public EventoDatos()
+        {
+            conexion = new SqlConnection(CadenaConexion);
+        }
+
+        //CRUDS DE LOS EVENTOS
+        //CRUDS DE USUARIO JUGADOR
+        //REGISTRO
+        public void RegistroEvento(Evento eventos)
+        {
+            /*       conexion.Open();
+                   string sqlStatement = "USP_REGISTRO_EVENTO";
+                   SqlCommand comandos = new SqlCommand(sqlStatement, conexion);
+                   comandos.CommandType = System.Data.CommandType.StoredProcedure;
+                   comandos.Parameters.AddWithValue("@NOMBRE_EVEN", usu_jug.NOM_JUGADOR);
+                   comandos.Parameters.AddWithValue("@DESC_EVEN", usu_jug.APELLIDO_JUGADOR);
+                   comandos.Parameters.AddWithValue("@INFO", usu_jug.CORREO_ELECTRONICO);
+                   comandos.Parameters.AddWithValue("@FECH_INC_EVEN", usu_jug.ID_USUARIO_JUG);
+                   comandos.Parameters.AddWithValue("@FECH_FIN_EVEN", usu_jug.CONTRASEÑA);
+                   comandos.Parameters.AddWithValue("@DIRECCION", usu_jug.DIRECCION);
+                   comandos.Parameters.AddWithValue("@CIUDAD", usu_jug.CIUDAD);
+                   comandos.Parameters.AddWithValue("@DNI", usu_jug.DNI);
+                   comandos.Parameters.AddWithValue("@FECHA_NACI_USU_JUGADOR", usu_jug.FECHA_NACIMIENTO);
+                   comandos.ExecuteNonQuery();
+                   conexion.Close();
+               }*/
+
+            //ACTUALIZAR
+            public void actualizarUsuarioJugador(UsuarioJugador usu_jug)
+            {
+                conexion.Open();
+                string sqlStatement = "USP_ACTUALIZAR_USUARIO_JUGADOR";
+                SqlCommand comandos = new SqlCommand(sqlStatement, conexion);
+                comandos.CommandType = System.Data.CommandType.StoredProcedure;
+                comandos.Parameters.AddWithValue("@COD_USU_JUG", usu_jug.COD_JUGADOR);
+                comandos.Parameters.AddWithValue("@CORREO_USU_JUG", usu_jug.CORREO_ELECTRONICO);
+                comandos.Parameters.AddWithValue("@DIRECCION", usu_jug.DIRECCION);
+                comandos.Parameters.AddWithValue("@CIUDAD", usu_jug.CIUDAD);
+                comandos.ExecuteNonQuery();
+                conexion.Close();
+            }
+
+            //LISTAR
+            public List<UsuarioJugador> ListarUsuariosJugadores()
+            {
+                List<UsuarioJugador> usuariosjugadores = null;
+                string listita = "USP_LISTAR_USUARIO_JUGADOR";
+                SqlCommand comando = new SqlCommand(listita, conexion);
+                comando.CommandType = System.Data.CommandType.StoredProcedure;
+                conexion.Open();
+                SqlDataReader reader = comando.ExecuteReader();
+                if (reader.HasRows)
+                {
+                    usuariosjugadores = new List<UsuarioJugador>();
+                    while (reader.Read())
+                    {
+                        UsuarioJugador usuariojugador = new UsuarioJugador();
+                        usuariojugador.COD_JUGADOR = int.Parse(reader["COD_JUGADOR"].ToString());
+                        usuariojugador.NOM_JUGADOR = reader["NOM_JUGADOR"].ToString();
+                        usuariojugador.APELLIDO_JUGADOR = reader["APELLIDO_JUGADOR"].ToString();
+                        usuariojugador.CORREO_ELECTRONICO = reader["CORREO_ELECTRONICO"].ToString();
+                        usuariojugador.ID_USUARIO_JUG = reader["ID_USUARIO_JUG"].ToString();
+                        usuariojugador.CONTRASEÑA = reader["CONTRASEÑA"].ToString();
+                        usuariojugador.DIRECCION = reader["DIRECCION"].ToString();
+                        usuariojugador.CIUDAD = reader["CIUDAD"].ToString();
+                        usuariojugador.DNI = reader["DNI"].ToString();
+                        usuariojugador.FECHA_NACIMIENTO = reader["FECHA_NACIMIENTO"].ToString();
+                        usuariosjugadores.Add(usuariojugador);
+                    }
+                }
+                conexion.Close();
+                return usuariosjugadores;
+            }
+
+            //ELIMINAR
+         /*   public void EliminarUsuariosJugadores(int idUsuarioJugador)
+            {
+                conexion.Open();
+                string sqlStatement = "USP_ELIMINAR_USUARIO_JUGADOR";
+                SqlCommand comandos = new SqlCommand(sqlStatement, conexion);
+                comandos.CommandType = System.Data.CommandType.StoredProcedure;
+                comandos.Parameters.AddWithValue("@COD_USU_JUG", idUsuarioJugador);
+                comandos.ExecuteNonQuery();
+                conexion.Close();
+            }*/
+        }
+    }
+}

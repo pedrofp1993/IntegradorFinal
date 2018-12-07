@@ -1,0 +1,34 @@
+<div class ="container">
+    <div class="row justify-content-md-center">
+
+        <div class="card w-75" *ngFor="let e of evento">
+            <div class="card-body">
+              <h5 class="card-title">{{e.NOM_EVEN}}</h5>
+              <p class="card-text">{{e.FECH_IN}}</p>
+              <a class="btn btn-primary" (click)="obtenerEvento(e.COD_EVEN)">Comprar entrada</a>
+            </div>
+          </div>
+
+            <!--<div class = "col-md-12" >
+                <label for="codigo">Tipo:</label>
+                <select [(ngModel)]="tipoUsuario" name="codigo" id="codigo" class="custom-select form-control" >
+                  <option value="0" selected>Seleccione un tipo</option>
+                  <option   value="{{e.ID_USU}}">{{t.ID_USU}}</option>
+                </select>
+              </div>-->
+
+ 
+
+            <div class="ui message" *ngIf="bulean == false && formulario.invalid">
+                <div class="header">Existen errores</div>
+    
+            </div>
+            <div class="ui message" *ngIf="bulean">
+                    <div>
+                        <div class="alert alert-primary" role="alert">
+                            A simple primary alert—check it out!
+                        </div>
+                    </div>
+                </div>
+    </div>
+</div>

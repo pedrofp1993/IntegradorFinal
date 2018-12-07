@@ -1,0 +1,45 @@
+﻿using ProyectoIntegrador.Modelos;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Net;
+using System.Net.Http;
+using System.Web.Http;
+using ProyectoIntegrador.Negocio;
+
+namespace Proyecto_Integrador_API.Controllers
+{
+    public class UsuarioController : ApiController
+    {
+        UsuarioNegocios negocios = new UsuarioNegocios();
+
+        [HttpGet]
+        public bool Login(string id, string pass)
+        {
+            return negocios.Login(id, pass);
+        }
+
+        [HttpPost]
+        public Boolean registroUsuarios(Usuario usu)
+        {
+            return negocios.registroUsuarios(usu);
+       }
+
+        [HttpGet]
+        public List<Usuario> ListarUsuarios()
+        {
+            return negocios.ListarUsuarios();
+        }
+
+       [HttpPut]
+        public Boolean actualizarUsuarios(Usuario usu)
+       {
+          Boolean resiste = negocios.actualizarUsuarios(usu);
+          if (resiste == true)
+         {
+              return true;
+          }
+           return false;
+       }
+    }
+}

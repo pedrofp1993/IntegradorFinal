@@ -1,0 +1,50 @@
+﻿using ProyectoIntegrador.Modelos;
+using System.Collections.Generic;
+using System.Data.SqlClient;
+
+namespace ProyectoIntegrador.Datos
+{
+    public class UsuarioDatos
+    {
+        string CadenaConexion = "server=HP;database=BD_PROYECTO_INTEGRADOR;Integrated Security=true";
+        SqlConnection conexion;
+
+        public UsuarioDatos()
+        {
+            conexion = new SqlConnection(CadenaConexion);
+        }
+
+        public Usuario Login(string id_usu, string password_usu)
+        {
+            Usuario usu = null;
+            conexion.Open();
+            string query = " select  * from USUARIO ";
+            query += " where id_usu = @ID_USU";
+            query += " and password_usu = @PASS_USU";
+            SqlCommand comandos = new SqlCommand(query, conexion);
+            comandos.Parameters.AddWithValue("@ID_USU", id_usu);
+            comandos.Parameters.AddWithValue("@PASS_USU", password_usu);
+            SqlDataReader lectora = comandos.ExecuteReader();
+            if (lectora.HasRows)
+            {
+                usu = new Usuario();
+                while (lectora.Read())
+                {
+
+                    usu.codigo_usu = int.Parse(lectora["codigo_usu"].ToString());
+                    usu.nombre_usu = lectora["nombre_usu"].ToString();
+                    usu.apellido_usu = lectora["apellido_usu"].ToString();
+                    usu.dni_usu = lectora["dni_usu"].ToString();
+                    usu.correo_usu = lectora["correo_usu"].ToString();
+                    usu.fecha_usu = lectora["fecha_usu"].ToString();
+
+                    usu.id_usu = lectora["id_usu"].ToString();
+                    usu.password_usu = lectora["password_usu"].ToString();
+
+                }
+            }
+            conexion.Close();
+            return usu;
+        }
+    }
+}

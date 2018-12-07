@@ -1,0 +1,75 @@
+<form [formGroup]="formulario" (ngSubmit)="registrar()">
+<div class ="container">
+    <div class="row justify-content-md-center">
+        
+            <div class = "col-md-6" [ngClass]="{'error': formulario.controls['NOM_JUGADOR'].errors && formulario.controls['NOM_JUGADOR'].touched }">
+                <label> NOMBRE </label>
+                <input formControlName="NOM_JUGADOR" type="text" class = "form-control" >
+            </div>
+            <div class = "col-md-6" [ngClass]="{'error': formulario.controls['APELLIDO_JUGADOR'].errors && formulario.controls['APELLIDO_JUGADOR'].touched }">
+                    <label> APELLIDO </label>
+                    <input formControlName="APELLIDO_JUGADOR" type="text" class = "form-control" >
+            </div>
+            <div class = "col-md-6" [ngClass]="{'error': formulario.controls['CORREO_ELECTRONICO'].errors && formulario.controls['CORREO_ELECTRONICO'].touched }">
+                <label> CORREO ELECTRONICO </label>
+                <input formControlName="CORREO_ELECTRONICO" type="text" class = "form-control" >
+            </div>
+            <div class = "col-md-6" [ngClass]="{'error': formulario.controls['DIRECCION'].errors && formulario.controls['DIRECCION'].touched }">
+                <label> DIRECCION </label>
+                <input formControlName="DIRECCION" type="text" class = "form-control" >
+            </div>
+            <div class = "col-md-6" [ngClass]="{'error': formulario.controls['CIUDAD'].errors && formulario.controls['CIUDAD'].touched }">
+                <label> CIUDAD </label>
+                <select formControlName="CIUDAD" class="custom-select custom-select-md mb-3">
+                    <option selected>Elegir ciudad</option>
+                    <option value="1">Lima</option>
+                    <option value="2">Arequipa</option>
+                    <option value="3">Three</option>
+                </select>
+            </div>
+            <div class = "col-md-6" [ngClass]="{'error': formulario.controls['ID_USUARIO_JUG'].errors && formulario.controls['ID_USUARIO_JUG'].touched }">
+                <label> ID DE USUARIO </label>
+                <input formControlName="ID_USUARIO_JUG" type="text" class = "form-control" >
+            </div>
+            <div class = "col-md-6" [ngClass]="{'error': formulario.controls['FECHA_NACIMIENTO'].errors && formulario.controls['FECHA_NACIMIENTO'].touched }">
+                <label> FECHA DE NACIMIENTO </label>
+                <input formControlName="FECHA_NACIMIENTO" type="text" class = "form-control" >
+            </div>
+            <div class = "col-md-6" [ngClass]="{'error': formulario.controls['CONTRASEÑA'].errors && formulario.controls['CONTRASEÑA'].touched }">
+                <label> CONTRASEÑA </label>
+                <input formControlName="CONTRASEÑA" type="text"class = "form-control" >
+            </div>
+            <div class = "col-md-6" [ngClass]="{'error': formulario.controls['DNI'].errors && formulario.controls['DNI'].touched }">
+                <label> DNI </label>
+                <input formControlName="DNI" type="text" class = "form-control" >
+            </div>
+            <div class = "col-md-6">
+                
+            </div>
+            <div class = "col-md-6" >
+                <button type="submit" class="btn btn-primary btn-lg btn-block">Registrar</button>
+            </div>
+            <div class = "col-md-6">
+                <button type="button" class="btn btn-danger btn-lg btn-block">Cancelar</button>
+            </div>
+        
+
+            <div class="ui message" *ngIf="bulean == false && formulario.invalid">
+                <div class="header">Existen errores</div>
+                <ul class="list">
+                <li *ngIf="formulario.get('NOM_JUGADOR').errors?.required">No ingreso nombre.</li>
+                <li *ngIf="formulario.get('APELLIDO_JUGADOR').errors?.required">No ingreso apellidos.</li>
+                <li *ngIf="formulario.get('CORREO_ELECTRONICO').errors?.required ">No ingreso email.</li>
+                <li *ngIf="formulario.get('CORREO_ELECTRONICO').errors?.pattern ">email invalido.</li>
+                <li *ngIf="formulario.get('DIRECCION').errors?.required">No ingreso la dirección.</li>
+                <li *ngIf="formulario.get('CIUDAD').errors?.required">No ingreso la ciudad.</li>
+                <li *ngIf="formulario.get('ID_USUARIO_JUG').errors?.required">No ingreso id de usuario.</li>
+                <li *ngIf="formulario.get('FECHA_NACIMIENTO').errors?.required">No ingreso la fecha de nacimiento.</li>
+                <li *ngIf="formulario.get('CONTRASEÑA').errors?.required ">No ingreso password.</li>
+                <li *ngIf="formulario.get('DNI').errors?.required ">No ingreso el dni.</li>
+                <li *ngIf="formulario.get('DNI').errors?.pattern ">dni invalido.</li>
+                </ul>
+            </div>
+    </div>
+</div>
+</form>

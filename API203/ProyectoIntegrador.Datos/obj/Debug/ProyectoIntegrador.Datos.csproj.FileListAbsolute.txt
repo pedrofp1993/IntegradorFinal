@@ -1,0 +1,76 @@
+D:\PROYECTO INTEGRADOR\PROYECTO_POKEMON\Proyecto_Integrador_API\ProyectoIntegrador.Datos\bin\Debug\ProyectoIntegrador.Datos.dll
+D:\PROYECTO INTEGRADOR\PROYECTO_POKEMON\Proyecto_Integrador_API\ProyectoIntegrador.Datos\bin\Debug\ProyectoIntegrador.Datos.pdb
+D:\PROYECTO INTEGRADOR\PROYECTO_POKEMON\Proyecto_Integrador_API\ProyectoIntegrador.Datos\bin\Debug\ProyectoIntegradorModelos.dll
+D:\PROYECTO INTEGRADOR\PROYECTO_POKEMON\Proyecto_Integrador_API\ProyectoIntegrador.Datos\bin\Debug\ProyectoIntegradorModelos.pdb
+D:\PROYECTO INTEGRADOR\PROYECTO_POKEMON\Proyecto_Integrador_API\ProyectoIntegrador.Datos\obj\Debug\ProyectoIntegrador.Datos.csprojAssemblyReference.cache
+D:\PROYECTO INTEGRADOR\PROYECTO_POKEMON\Proyecto_Integrador_API\ProyectoIntegrador.Datos\obj\Debug\ProyectoIntegrador.Datos.csproj.CoreCompileInputs.cache
+D:\PROYECTO INTEGRADOR\PROYECTO_POKEMON\Proyecto_Integrador_API\ProyectoIntegrador.Datos\obj\Debug\ProyectoIntegrador.Datos.csproj.CopyComplete
+D:\PROYECTO INTEGRADOR\PROYECTO_POKEMON\Proyecto_Integrador_API\ProyectoIntegrador.Datos\obj\Debug\ProyectoIntegrador.Datos.dll
+D:\PROYECTO INTEGRADOR\PROYECTO_POKEMON\Proyecto_Integrador_API\ProyectoIntegrador.Datos\obj\Debug\ProyectoIntegrador.Datos.pdb
+C:\Users\Renato\Downloads\PROYECTO_POKEMON\PROYECTO_POKEMON\Proyecto_Integrador_API\ProyectoIntegrador.Datos\bin\Debug\ProyectoIntegrador.Datos.dll
+C:\Users\Renato\Downloads\PROYECTO_POKEMON\PROYECTO_POKEMON\Proyecto_Integrador_API\ProyectoIntegrador.Datos\bin\Debug\ProyectoIntegrador.Datos.pdb
+C:\Users\Renato\Downloads\PROYECTO_POKEMON\PROYECTO_POKEMON\Proyecto_Integrador_API\ProyectoIntegrador.Datos\bin\Debug\ProyectoIntegradorModelos.dll
+C:\Users\Renato\Downloads\PROYECTO_POKEMON\PROYECTO_POKEMON\Proyecto_Integrador_API\ProyectoIntegrador.Datos\bin\Debug\ProyectoIntegradorModelos.pdb
+C:\Users\Renato\Downloads\PROYECTO_POKEMON\PROYECTO_POKEMON\Proyecto_Integrador_API\ProyectoIntegrador.Datos\obj\Debug\ProyectoIntegrador.Datos.csprojResolveAssemblyReference.cache
+C:\Users\Renato\Downloads\PROYECTO_POKEMON\PROYECTO_POKEMON\Proyecto_Integrador_API\ProyectoIntegrador.Datos\obj\Debug\ProyectoIntegrador.Datos.csproj.CoreCompileInputs.cache
+C:\Users\Renato\Downloads\PROYECTO_POKEMON\PROYECTO_POKEMON\Proyecto_Integrador_API\ProyectoIntegrador.Datos\obj\Debug\ProyectoIntegrador.Datos.dll
+C:\Users\Renato\Downloads\PROYECTO_POKEMON\PROYECTO_POKEMON\Proyecto_Integrador_API\ProyectoIntegrador.Datos\obj\Debug\ProyectoIntegrador.Datos.pdb
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API\ProyectoIntegrador.Datos\bin\Debug\ProyectoIntegrador.Datos.dll
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API\ProyectoIntegrador.Datos\bin\Debug\ProyectoIntegrador.Datos.pdb
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API\ProyectoIntegrador.Datos\bin\Debug\ProyectoIntegradorModelos.dll
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API\ProyectoIntegrador.Datos\bin\Debug\ProyectoIntegradorModelos.pdb
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API\ProyectoIntegrador.Datos\obj\Debug\ProyectoIntegrador.Datos.csprojAssemblyReference.cache
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API\ProyectoIntegrador.Datos\obj\Debug\ProyectoIntegrador.Datos.csproj.CoreCompileInputs.cache
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API\ProyectoIntegrador.Datos\obj\Debug\ProyectoIntegrador.Datos.csproj.CopyComplete
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API\ProyectoIntegrador.Datos\obj\Debug\ProyectoIntegrador.Datos.dll
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API\ProyectoIntegrador.Datos\obj\Debug\ProyectoIntegrador.Datos.pdb
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API_ISAAC\ProyectoIntegrador.Datos\bin\Debug\ProyectoIntegrador.Datos.dll
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API_ISAAC\ProyectoIntegrador.Datos\bin\Debug\ProyectoIntegrador.Datos.pdb
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API_ISAAC\ProyectoIntegrador.Datos\bin\Debug\ProyectoIntegradorModelos.dll
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API_ISAAC\ProyectoIntegrador.Datos\bin\Debug\ProyectoIntegradorModelos.pdb
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API_ISAAC\ProyectoIntegrador.Datos\obj\Debug\ProyectoIntegrador.Datos.csprojAssemblyReference.cache
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API_ISAAC\ProyectoIntegrador.Datos\obj\Debug\ProyectoIntegrador.Datos.csproj.CoreCompileInputs.cache
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API_ISAAC\ProyectoIntegrador.Datos\obj\Debug\ProyectoIntegrador.Datos.csproj.CopyComplete
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API_ISAAC\ProyectoIntegrador.Datos\obj\Debug\ProyectoIntegrador.Datos.dll
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API_ISAAC\ProyectoIntegrador.Datos\obj\Debug\ProyectoIntegrador.Datos.pdb
+C:\Users\psistemas\Downloads\Proyecto_Integrador_API_ISAAC_MASO\ProyectoIntegrador.Datos\bin\Debug\ProyectoIntegrador.Datos.dll
+C:\Users\psistemas\Downloads\Proyecto_Integrador_API_ISAAC_MASO\ProyectoIntegrador.Datos\bin\Debug\ProyectoIntegrador.Datos.pdb
+C:\Users\psistemas\Downloads\Proyecto_Integrador_API_ISAAC_MASO\ProyectoIntegrador.Datos\bin\Debug\ProyectoIntegradorModelos.dll
+C:\Users\psistemas\Downloads\Proyecto_Integrador_API_ISAAC_MASO\ProyectoIntegrador.Datos\bin\Debug\ProyectoIntegradorModelos.pdb
+C:\Users\psistemas\Downloads\Proyecto_Integrador_API_ISAAC_MASO\ProyectoIntegrador.Datos\obj\Debug\ProyectoIntegrador.Datos.csprojAssemblyReference.cache
+C:\Users\psistemas\Downloads\Proyecto_Integrador_API_ISAAC_MASO\ProyectoIntegrador.Datos\obj\Debug\ProyectoIntegrador.Datos.csproj.CoreCompileInputs.cache
+C:\Users\psistemas\Downloads\Proyecto_Integrador_API_ISAAC_MASO\ProyectoIntegrador.Datos\obj\Debug\ProyectoIntegrador.Datos.csproj.CopyComplete
+C:\Users\psistemas\Downloads\Proyecto_Integrador_API_ISAAC_MASO\ProyectoIntegrador.Datos\obj\Debug\ProyectoIntegrador.Datos.dll
+C:\Users\psistemas\Downloads\Proyecto_Integrador_API_ISAAC_MASO\ProyectoIntegrador.Datos\obj\Debug\ProyectoIntegrador.Datos.pdb
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\Proyecto_Integrador_API_ISAAC_MASO20\Proyecto_Integrador_API_ISAAC_MASO2\ProyectoIntegrador.Datos\obj\Debug\ProyectoIntegrador.Datos.csprojResolveAssemblyReference.cache
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\Proyecto_Integrador_API_ISAAC_MASO20\Proyecto_Integrador_API_ISAAC_MASO2\ProyectoIntegrador.Datos\obj\Debug\ProyectoIntegrador.Datos.dll
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\Proyecto_Integrador_API_ISAAC_MASO20\Proyecto_Integrador_API_ISAAC_MASO2\ProyectoIntegrador.Datos\obj\Debug\ProyectoIntegrador.Datos.pdb
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\Proyecto_Integrador_API_ISAAC_MASO20\Proyecto_Integrador_API_ISAAC_MASO2\ProyectoIntegrador.Datos\bin\Debug\ProyectoIntegrador.Datos.dll
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\Proyecto_Integrador_API_ISAAC_MASO20\Proyecto_Integrador_API_ISAAC_MASO2\ProyectoIntegrador.Datos\bin\Debug\ProyectoIntegrador.Datos.pdb
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\Proyecto_Integrador_API_ISAAC_MASO20\Proyecto_Integrador_API_ISAAC_MASO2\ProyectoIntegrador.Datos\bin\Debug\ProyectoIntegradorModelos.dll
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\Proyecto_Integrador_API_ISAAC_MASO20\Proyecto_Integrador_API_ISAAC_MASO2\ProyectoIntegrador.Datos\bin\Debug\ProyectoIntegradorModelos.pdb
+C:\Users\psistemas\Downloads\Proyecto_Integrador_API_ISAAC_MASO203\Proyecto_Integrador_API_ISAAC_MASO203\Proyecto_Integrador_API_ISAAC_MASO2\ProyectoIntegrador.Datos\obj\Debug\ProyectoIntegrador.Datos.csprojAssemblyReference.cache
+C:\Users\psistemas\Downloads\Proyecto_Integrador_API_ISAAC_MASO203\Proyecto_Integrador_API_ISAAC_MASO203\Proyecto_Integrador_API_ISAAC_MASO2\ProyectoIntegrador.Datos\obj\Debug\ProyectoIntegrador.Datos.csproj.CoreCompileInputs.cache
+C:\Users\psistemas\Downloads\Proyecto_Integrador_API_ISAAC_MASO203\Proyecto_Integrador_API_ISAAC_MASO203\Proyecto_Integrador_API_ISAAC_MASO2\ProyectoIntegrador.Datos\obj\Debug\ProyectoIntegrador.Datos.dll
+C:\Users\psistemas\Downloads\Proyecto_Integrador_API_ISAAC_MASO203\Proyecto_Integrador_API_ISAAC_MASO203\Proyecto_Integrador_API_ISAAC_MASO2\ProyectoIntegrador.Datos\obj\Debug\ProyectoIntegrador.Datos.pdb
+C:\Users\psistemas\Downloads\Proyecto_Integrador_API_ISAAC_MASO203\Proyecto_Integrador_API_ISAAC_MASO203\Proyecto_Integrador_API_ISAAC_MASO2\ProyectoIntegrador.Datos\bin\Debug\ProyectoIntegrador.Datos.dll
+C:\Users\psistemas\Downloads\Proyecto_Integrador_API_ISAAC_MASO203\Proyecto_Integrador_API_ISAAC_MASO203\Proyecto_Integrador_API_ISAAC_MASO2\ProyectoIntegrador.Datos\bin\Debug\ProyectoIntegrador.Datos.pdb
+C:\Users\psistemas\Downloads\Proyecto_Integrador_API_ISAAC_MASO203\Proyecto_Integrador_API_ISAAC_MASO203\Proyecto_Integrador_API_ISAAC_MASO2\ProyectoIntegrador.Datos\bin\Debug\ProyectoIntegradorModelos.dll
+C:\Users\psistemas\Downloads\Proyecto_Integrador_API_ISAAC_MASO203\Proyecto_Integrador_API_ISAAC_MASO203\Proyecto_Integrador_API_ISAAC_MASO2\ProyectoIntegrador.Datos\bin\Debug\ProyectoIntegradorModelos.pdb
+C:\Users\psistemas\Downloads\Proyecto_Integrador_API_ISAAC_MASO203\Proyecto_Integrador_API_ISAAC_MASO203\Proyecto_Integrador_API_ISAAC_MASO2\ProyectoIntegrador.Datos\obj\Debug\ProyectoIntegrador.Datos.csproj.CopyComplete
+C:\Users\psistemas\Downloads\API203\ProyectoIntegrador.Datos\bin\Debug\ProyectoIntegrador.Datos.dll
+C:\Users\psistemas\Downloads\API203\ProyectoIntegrador.Datos\bin\Debug\ProyectoIntegrador.Datos.pdb
+C:\Users\psistemas\Downloads\API203\ProyectoIntegrador.Datos\bin\Debug\ProyectoIntegradorModelos.dll
+C:\Users\psistemas\Downloads\API203\ProyectoIntegrador.Datos\bin\Debug\ProyectoIntegradorModelos.pdb
+C:\Users\psistemas\Downloads\API203\ProyectoIntegrador.Datos\obj\Debug\ProyectoIntegrador.Datos.csprojAssemblyReference.cache
+C:\Users\psistemas\Downloads\API203\ProyectoIntegrador.Datos\obj\Debug\ProyectoIntegrador.Datos.csproj.CoreCompileInputs.cache
+C:\Users\psistemas\Downloads\API203\ProyectoIntegrador.Datos\obj\Debug\ProyectoIntegrador.Datos.csproj.CopyComplete
+C:\Users\psistemas\Downloads\API203\ProyectoIntegrador.Datos\obj\Debug\ProyectoIntegrador.Datos.dll
+C:\Users\psistemas\Downloads\API203\ProyectoIntegrador.Datos\obj\Debug\ProyectoIntegrador.Datos.pdb
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\API203\ProyectoIntegrador.Datos\bin\Debug\ProyectoIntegrador.Datos.dll
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\API203\ProyectoIntegrador.Datos\bin\Debug\ProyectoIntegrador.Datos.pdb
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\API203\ProyectoIntegrador.Datos\bin\Debug\ProyectoIntegradorModelos.dll
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\API203\ProyectoIntegrador.Datos\bin\Debug\ProyectoIntegradorModelos.pdb
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\API203\ProyectoIntegrador.Datos\obj\Debug\ProyectoIntegrador.Datos.csprojResolveAssemblyReference.cache
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\API203\ProyectoIntegrador.Datos\obj\Debug\ProyectoIntegrador.Datos.dll
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\API203\ProyectoIntegrador.Datos\obj\Debug\ProyectoIntegrador.Datos.pdb

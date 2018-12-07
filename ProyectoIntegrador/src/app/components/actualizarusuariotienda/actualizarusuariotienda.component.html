@@ -1,0 +1,47 @@
+<form [formGroup]="formulario" (ngSubmit)="actualizar()">
+    <div class ="container">
+        <div class="row justify-content-md-center">
+           
+            <div class = "col-md-3">
+                <label> REPRESENTANTE LEGAL </label>
+            </div>
+            <div class = "col-md-9" [ngClass]="{'error': formulario.controls['REP_LEGAL'].errors && formulario.controls['REP_LEGAL'].touched }">       
+              <input formControlName="REP_LEGAL" type="text" class = "form-control" >
+            </div>
+            <div class = "col-md-3">
+                <label> CORREO ELECTRONICO </label>
+            </div>
+            <div class = "col-md-9" [ngClass]="{'error': formulario.controls['CORREO_UST'].errors && formulario.controls['CORREO_UST'].touched }">
+                <input formControlName="CORREO_UST" type="text" class = "form-control" >
+            </div>
+            <div class = "col-md-6" [ngClass]="{'error': formulario.controls['DIRECCION'].errors && formulario.controls['DIRECCION'].touched }">
+                <label> DIRECCION </label>
+                <input formControlName="DIRECCION" type="text" class = "form-control" >
+            </div>
+            <div class = "col-md-6" [ngClass]="{'error': formulario.controls['TELEFONO'].errors && formulario.controls['TELEFONO'].touched }">
+                <label> TELEFONO </label>
+                <input formControlName="TELEFONO" type="text" class = "form-control" >
+            </div>
+            <div class = "col-md-6" >
+              <button type="submit" class="btn btn-primary btn-lg btn-block">Actualizar</button>
+            </div>
+            <div class = "col-md-6">
+              <button type="button" class="btn btn-danger btn-lg btn-block">Cancelar</button>
+            </div>
+            
+    
+                <div class="ui message" *ngIf="onSubmit && formulario.invalid">
+                    <div class="header">Existen errores</div>
+                    <ul class="list">
+                    <li *ngIf="formulario.get('REP_LEGAL').errors?.required ">No ingreso representante legal.</li>
+                    <li *ngIf="formulario.get('CORREO_UST').errors?.required ">No ingreso email.</li>
+                    <li *ngIf="formulario.get('DIRECCION').errors?.required">No ingreso la dirección.</li>
+                    <li *ngIf="formulario.get('TELEFONO').errors?.required">No ingreso la telefono.</li>
+                
+                    </ul>
+                </div>
+            
+        </div>
+    </div>
+    </form>
+  

@@ -1,0 +1,49 @@
+<form [formGroup]="formulario" (ngSubmit)="actualizar()">
+  <div class ="container">
+      <div class="row justify-content-md-center">
+          
+              
+              <div class = "col-md-6" [ngClass]="{'error': formulario.controls['NIVEL'].errors && formulario.controls['NIVEL'].touched }">
+                  <label> NIVEL </label>
+                  <select formControlName="NIVEL" class="custom-select custom-select-md mb-3">
+                      <option selected>Elegir nivel</option>
+                      <option value="1">1</option>
+                      <option value="2">2</option>
+                      <option value="3">3</option>
+                  </select>
+              </div>
+              <div class = "col-md-6" [ngClass]="{'error': formulario.controls['CATEGORIA'].errors && formulario.controls['CATEGORIA'].touched }">
+                  <label> CATEGORIA </label>
+                  <select formControlName="CATEGORIA" class="custom-select custom-select-md mb-3">
+                      <option selected>Elegir categoria</option>
+                      <option value="1">1</option>
+                      <option value="2">2</option>
+                      <option value="3">3</option>
+                  </select>
+              </div>
+              
+              <div class = "col-md-6" >
+                  <button type="submit" class="btn btn-primary btn-lg btn-block">Actualizar</button>
+              </div>
+              <div class = "col-md-6">
+                  <button type="button" class="btn btn-danger btn-lg btn-block">Cancelar</button>
+              </div>
+          
+  
+              <div class="ui message" *ngIf="onSubmit && formulario.invalid">
+                  <div class="header">Existen errores</div>
+                  <ul class="list">
+                  
+                  <li *ngIf="formulario.get('NIVEL').errors?.required">No ingreso la dirección.</li>
+                  <li *ngIf="formulario.get('CATEGORIA').errors?.required">No ingreso la ciudad.</li>
+                  
+                  </ul>
+              </div>
+          
+      </div>
+  </div>
+  </form>
+  
+
+
+  

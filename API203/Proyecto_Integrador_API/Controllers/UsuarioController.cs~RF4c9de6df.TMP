@@ -1,0 +1,93 @@
+﻿using ProyectoIntegrador.Modelos;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Net;
+using System.Net.Http;
+using System.Web.Http;
+using ProyectoIntegrador.Negocio;
+
+namespace Proyecto_Integrador_API.Controllers
+{
+    public class UsuarioController : ApiController
+    {
+        UsuarioNegocios negocios = new UsuarioNegocios();
+
+        [HttpGet]
+        public bool Login(string id, string pass)
+        {
+            return negocios.Login(id, pass);
+        }
+
+        //CRUDS DE USUARIO JUGADOR
+        //REGISTRO
+        [HttpPost]
+        public string registroUsuarioJugador(UsuarioJugador usu_jug)
+        {
+            string mensaje = "";
+            mensaje = negocios.registroUsuarioJugador(usu_jug);
+            return mensaje;
+       }
+
+        //LISTADO
+        [HttpGet]
+        public List<UsuarioJugador> ListarUsuariosJugadores()
+        {
+            var lista = negocios.ListarUsuariosJugadores();
+            return lista;
+        }
+        //RETORNE POR ID
+        [HttpGet]
+        public UsuarioJugador GetUsuarioJugadorById(int id)
+        {
+            var lista = negocios.ListarUsuariosJugadores();
+            UsuarioJugador usuariojugador = lista.FirstOrDefault(x => x.COD_JUGADOR == id);
+            return usuariojugador;
+        }
+
+        //ACTUALIZAR
+       [HttpPut]
+        public string actualizarUsuariosJugadores(UsuarioJugador usu_jug)
+       {
+            string mensaje = "";
+            mensaje = negocios.actualizarUsuariosJugadores(usu_jug);
+            return mensaje;
+        }
+
+
+        //CRUDS DEL USUARIO REGULADOR
+        //REGISTRO
+        [HttpPost]
+        public string registroUsuarioRegulador(UsuarioRegulador usu_reg)
+        {
+            string mensaje = "";
+            mensaje = negocios.registroUsuarioRegulador(usu_reg);
+            return mensaje;
+        }
+
+        //LISTADO
+        [HttpGet]
+        public List<UsuarioRegulador> ListarUsuariosReguladores()
+        {
+            var lista = negocios.ListarUsuariosReguladores();
+            return lista;
+        }
+        //RETORNE POR ID
+        [HttpGet]
+        public UsuarioRegulador GetUsuarioReguladorById(int id)
+        {
+            var lista = negocios.ListarUsuariosReguladores();
+            UsuarioRegulador usuarioregulador = lista.FirstOrDefault(x => x.COD_REG == id);
+            return usuarioregulador;
+        }
+
+        //ACTUALIZAR
+        [HttpPut]
+        public string actualizarUsuariosReguladores(UsuarioRegulador usu_reg)
+        {
+            string mensaje = "";
+            mensaje = negocios.actualizarUsuariosReguladores(usu_reg);
+            return mensaje;
+        }
+    }
+}

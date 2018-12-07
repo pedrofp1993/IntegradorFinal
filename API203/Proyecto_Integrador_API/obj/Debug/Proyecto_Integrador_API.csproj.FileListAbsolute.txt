@@ -1,0 +1,910 @@
+D:\PROYECTO INTEGRADOR\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\ApplicationInsights.config
+D:\PROYECTO INTEGRADOR\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\Proyecto_Integrador_API.dll.config
+D:\PROYECTO INTEGRADOR\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\Proyecto_Integrador_API.dll
+D:\PROYECTO INTEGRADOR\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\Proyecto_Integrador_API.pdb
+D:\PROYECTO INTEGRADOR\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\roslyn\csc.exe
+D:\PROYECTO INTEGRADOR\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\roslyn\csc.exe.config
+D:\PROYECTO INTEGRADOR\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\roslyn\csc.rsp
+D:\PROYECTO INTEGRADOR\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\roslyn\csi.exe
+D:\PROYECTO INTEGRADOR\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\roslyn\csi.exe.config
+D:\PROYECTO INTEGRADOR\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\roslyn\csi.rsp
+D:\PROYECTO INTEGRADOR\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\PROYECTO INTEGRADOR\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\PROYECTO INTEGRADOR\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\PROYECTO INTEGRADOR\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\PROYECTO INTEGRADOR\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\PROYECTO INTEGRADOR\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\PROYECTO INTEGRADOR\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\PROYECTO INTEGRADOR\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\PROYECTO INTEGRADOR\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\PROYECTO INTEGRADOR\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\PROYECTO INTEGRADOR\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\PROYECTO INTEGRADOR\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\roslyn\System.AppContext.dll
+D:\PROYECTO INTEGRADOR\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\roslyn\System.Collections.Immutable.dll
+D:\PROYECTO INTEGRADOR\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\roslyn\System.Console.dll
+D:\PROYECTO INTEGRADOR\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\PROYECTO INTEGRADOR\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\roslyn\System.Diagnostics.Process.dll
+D:\PROYECTO INTEGRADOR\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\PROYECTO INTEGRADOR\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\roslyn\System.IO.Compression.dll
+D:\PROYECTO INTEGRADOR\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\roslyn\System.IO.FileSystem.dll
+D:\PROYECTO INTEGRADOR\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\PROYECTO INTEGRADOR\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\PROYECTO INTEGRADOR\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\roslyn\System.IO.Pipes.dll
+D:\PROYECTO INTEGRADOR\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\roslyn\System.Reflection.Metadata.dll
+D:\PROYECTO INTEGRADOR\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\roslyn\System.Security.AccessControl.dll
+D:\PROYECTO INTEGRADOR\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\roslyn\System.Security.Claims.dll
+D:\PROYECTO INTEGRADOR\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\PROYECTO INTEGRADOR\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\PROYECTO INTEGRADOR\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\PROYECTO INTEGRADOR\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\PROYECTO INTEGRADOR\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\roslyn\System.Security.Principal.Windows.dll
+D:\PROYECTO INTEGRADOR\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\PROYECTO INTEGRADOR\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\roslyn\System.Threading.Thread.dll
+D:\PROYECTO INTEGRADOR\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\roslyn\System.ValueTuple.dll
+D:\PROYECTO INTEGRADOR\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\PROYECTO INTEGRADOR\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\roslyn\System.Xml.XmlDocument.dll
+D:\PROYECTO INTEGRADOR\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\roslyn\System.Xml.XPath.dll
+D:\PROYECTO INTEGRADOR\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\PROYECTO INTEGRADOR\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\roslyn\vbc.exe
+D:\PROYECTO INTEGRADOR\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\roslyn\vbc.exe.config
+D:\PROYECTO INTEGRADOR\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\roslyn\vbc.rsp
+D:\PROYECTO INTEGRADOR\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\roslyn\VBCSCompiler.exe
+D:\PROYECTO INTEGRADOR\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\roslyn\VBCSCompiler.exe.config
+D:\PROYECTO INTEGRADOR\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\Antlr3.Runtime.dll
+D:\PROYECTO INTEGRADOR\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\Microsoft.AI.Agent.Intercept.dll
+D:\PROYECTO INTEGRADOR\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\Microsoft.AI.DependencyCollector.dll
+D:\PROYECTO INTEGRADOR\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\PROYECTO INTEGRADOR\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\PROYECTO INTEGRADOR\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\Microsoft.AI.Web.dll
+D:\PROYECTO INTEGRADOR\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\Microsoft.AI.WindowsServer.dll
+D:\PROYECTO INTEGRADOR\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\Microsoft.ApplicationInsights.dll
+D:\PROYECTO INTEGRADOR\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\PROYECTO INTEGRADOR\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\PROYECTO INTEGRADOR\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\Microsoft.Web.Infrastructure.dll
+D:\PROYECTO INTEGRADOR\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\Newtonsoft.Json.dll
+D:\PROYECTO INTEGRADOR\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\System.Diagnostics.DiagnosticSource.dll
+D:\PROYECTO INTEGRADOR\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\System.Net.Http.Formatting.dll
+D:\PROYECTO INTEGRADOR\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\System.Web.Helpers.dll
+D:\PROYECTO INTEGRADOR\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\System.Web.Http.dll
+D:\PROYECTO INTEGRADOR\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\System.Web.Http.WebHost.dll
+D:\PROYECTO INTEGRADOR\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\System.Web.Mvc.dll
+D:\PROYECTO INTEGRADOR\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\System.Web.Optimization.dll
+D:\PROYECTO INTEGRADOR\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\System.Web.Razor.dll
+D:\PROYECTO INTEGRADOR\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\System.Web.WebPages.Deployment.dll
+D:\PROYECTO INTEGRADOR\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\System.Web.WebPages.dll
+D:\PROYECTO INTEGRADOR\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\System.Web.WebPages.Razor.dll
+D:\PROYECTO INTEGRADOR\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\WebGrease.dll
+D:\PROYECTO INTEGRADOR\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\Newtonsoft.Json.xml
+D:\PROYECTO INTEGRADOR\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\System.Net.Http.Formatting.xml
+D:\PROYECTO INTEGRADOR\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\System.Web.Helpers.xml
+D:\PROYECTO INTEGRADOR\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\System.Web.Http.xml
+D:\PROYECTO INTEGRADOR\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\System.Web.Http.WebHost.xml
+D:\PROYECTO INTEGRADOR\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\System.Web.Mvc.xml
+D:\PROYECTO INTEGRADOR\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\System.Web.Optimization.xml
+D:\PROYECTO INTEGRADOR\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\System.Web.Razor.xml
+D:\PROYECTO INTEGRADOR\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\System.Web.WebPages.xml
+D:\PROYECTO INTEGRADOR\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\System.Web.WebPages.Deployment.xml
+D:\PROYECTO INTEGRADOR\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\System.Web.WebPages.Razor.xml
+D:\PROYECTO INTEGRADOR\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\Antlr3.Runtime.pdb
+D:\PROYECTO INTEGRADOR\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\System.Diagnostics.DiagnosticSource.xml
+D:\PROYECTO INTEGRADOR\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\PROYECTO INTEGRADOR\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\Microsoft.AI.DependencyCollector.xml
+D:\PROYECTO INTEGRADOR\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\Microsoft.AI.WindowsServer.xml
+D:\PROYECTO INTEGRADOR\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\Microsoft.AI.Web.xml
+D:\PROYECTO INTEGRADOR\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\PROYECTO INTEGRADOR\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\es\System.Net.Http.Formatting.resources.dll
+D:\PROYECTO INTEGRADOR\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\es\System.Web.Helpers.resources.dll
+D:\PROYECTO INTEGRADOR\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\es\System.Web.Http.resources.dll
+D:\PROYECTO INTEGRADOR\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\es\System.Web.Http.WebHost.resources.dll
+D:\PROYECTO INTEGRADOR\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\es\System.Web.Mvc.resources.dll
+D:\PROYECTO INTEGRADOR\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\es\System.Web.Optimization.resources.dll
+D:\PROYECTO INTEGRADOR\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\es\System.Web.Razor.resources.dll
+D:\PROYECTO INTEGRADOR\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\es\System.Web.WebPages.resources.dll
+D:\PROYECTO INTEGRADOR\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\es\System.Web.WebPages.Deployment.resources.dll
+D:\PROYECTO INTEGRADOR\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\es\System.Web.WebPages.Razor.resources.dll
+D:\PROYECTO INTEGRADOR\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\obj\Debug\Proyecto_Integrador_API.csprojAssemblyReference.cache
+D:\PROYECTO INTEGRADOR\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\obj\Debug\Proyecto_Integrador_API.csproj.CoreCompileInputs.cache
+D:\PROYECTO INTEGRADOR\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\obj\Debug\Proyecto_Integrador_API.csproj.CopyComplete
+D:\PROYECTO INTEGRADOR\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\obj\Debug\Proyecto_Integrador_API.dll
+D:\PROYECTO INTEGRADOR\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\obj\Debug\Proyecto_Integrador_API.pdb
+D:\PROYECTO INTEGRADOR\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\ProyectoIntegradorModelos.dll
+D:\PROYECTO INTEGRADOR\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\ProyectoIntegradorModelos.pdb
+C:\Users\Renato\Downloads\PROYECTO_POKEMON\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\ApplicationInsights.config
+C:\Users\Renato\Downloads\PROYECTO_POKEMON\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\Proyecto_Integrador_API.dll.config
+C:\Users\Renato\Downloads\PROYECTO_POKEMON\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\Proyecto_Integrador_API.dll
+C:\Users\Renato\Downloads\PROYECTO_POKEMON\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\Proyecto_Integrador_API.pdb
+C:\Users\Renato\Downloads\PROYECTO_POKEMON\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\roslyn\csc.exe
+C:\Users\Renato\Downloads\PROYECTO_POKEMON\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\roslyn\csc.exe.config
+C:\Users\Renato\Downloads\PROYECTO_POKEMON\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\roslyn\csc.rsp
+C:\Users\Renato\Downloads\PROYECTO_POKEMON\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\roslyn\csi.exe
+C:\Users\Renato\Downloads\PROYECTO_POKEMON\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\roslyn\csi.exe.config
+C:\Users\Renato\Downloads\PROYECTO_POKEMON\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\roslyn\csi.rsp
+C:\Users\Renato\Downloads\PROYECTO_POKEMON\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Renato\Downloads\PROYECTO_POKEMON\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Renato\Downloads\PROYECTO_POKEMON\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Renato\Downloads\PROYECTO_POKEMON\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Renato\Downloads\PROYECTO_POKEMON\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Renato\Downloads\PROYECTO_POKEMON\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Renato\Downloads\PROYECTO_POKEMON\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Renato\Downloads\PROYECTO_POKEMON\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Renato\Downloads\PROYECTO_POKEMON\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Renato\Downloads\PROYECTO_POKEMON\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Renato\Downloads\PROYECTO_POKEMON\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Renato\Downloads\PROYECTO_POKEMON\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\roslyn\System.AppContext.dll
+C:\Users\Renato\Downloads\PROYECTO_POKEMON\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Renato\Downloads\PROYECTO_POKEMON\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\roslyn\System.Console.dll
+C:\Users\Renato\Downloads\PROYECTO_POKEMON\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Renato\Downloads\PROYECTO_POKEMON\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Renato\Downloads\PROYECTO_POKEMON\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Renato\Downloads\PROYECTO_POKEMON\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\roslyn\System.IO.Compression.dll
+C:\Users\Renato\Downloads\PROYECTO_POKEMON\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Renato\Downloads\PROYECTO_POKEMON\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Renato\Downloads\PROYECTO_POKEMON\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Renato\Downloads\PROYECTO_POKEMON\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Renato\Downloads\PROYECTO_POKEMON\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Renato\Downloads\PROYECTO_POKEMON\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Renato\Downloads\PROYECTO_POKEMON\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\roslyn\System.Security.Claims.dll
+C:\Users\Renato\Downloads\PROYECTO_POKEMON\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Renato\Downloads\PROYECTO_POKEMON\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Renato\Downloads\PROYECTO_POKEMON\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Renato\Downloads\PROYECTO_POKEMON\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Renato\Downloads\PROYECTO_POKEMON\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Renato\Downloads\PROYECTO_POKEMON\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Renato\Downloads\PROYECTO_POKEMON\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Renato\Downloads\PROYECTO_POKEMON\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\roslyn\System.ValueTuple.dll
+C:\Users\Renato\Downloads\PROYECTO_POKEMON\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Renato\Downloads\PROYECTO_POKEMON\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Renato\Downloads\PROYECTO_POKEMON\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Renato\Downloads\PROYECTO_POKEMON\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Renato\Downloads\PROYECTO_POKEMON\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\roslyn\vbc.exe
+C:\Users\Renato\Downloads\PROYECTO_POKEMON\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\roslyn\vbc.exe.config
+C:\Users\Renato\Downloads\PROYECTO_POKEMON\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\roslyn\vbc.rsp
+C:\Users\Renato\Downloads\PROYECTO_POKEMON\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\roslyn\VBCSCompiler.exe
+C:\Users\Renato\Downloads\PROYECTO_POKEMON\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Renato\Downloads\PROYECTO_POKEMON\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\Antlr3.Runtime.dll
+C:\Users\Renato\Downloads\PROYECTO_POKEMON\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Renato\Downloads\PROYECTO_POKEMON\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Renato\Downloads\PROYECTO_POKEMON\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Renato\Downloads\PROYECTO_POKEMON\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Renato\Downloads\PROYECTO_POKEMON\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\Microsoft.AI.Web.dll
+C:\Users\Renato\Downloads\PROYECTO_POKEMON\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Renato\Downloads\PROYECTO_POKEMON\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Renato\Downloads\PROYECTO_POKEMON\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Renato\Downloads\PROYECTO_POKEMON\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Renato\Downloads\PROYECTO_POKEMON\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Renato\Downloads\PROYECTO_POKEMON\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\Newtonsoft.Json.dll
+C:\Users\Renato\Downloads\PROYECTO_POKEMON\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\ProyectoIntegrador.Negocio.dll
+C:\Users\Renato\Downloads\PROYECTO_POKEMON\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\ProyectoIntegradorModelos.dll
+C:\Users\Renato\Downloads\PROYECTO_POKEMON\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Renato\Downloads\PROYECTO_POKEMON\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\System.Net.Http.Formatting.dll
+C:\Users\Renato\Downloads\PROYECTO_POKEMON\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\System.Web.Helpers.dll
+C:\Users\Renato\Downloads\PROYECTO_POKEMON\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\System.Web.Http.dll
+C:\Users\Renato\Downloads\PROYECTO_POKEMON\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\System.Web.Http.WebHost.dll
+C:\Users\Renato\Downloads\PROYECTO_POKEMON\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\System.Web.Mvc.dll
+C:\Users\Renato\Downloads\PROYECTO_POKEMON\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\System.Web.Optimization.dll
+C:\Users\Renato\Downloads\PROYECTO_POKEMON\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\System.Web.Razor.dll
+C:\Users\Renato\Downloads\PROYECTO_POKEMON\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Renato\Downloads\PROYECTO_POKEMON\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\System.Web.WebPages.dll
+C:\Users\Renato\Downloads\PROYECTO_POKEMON\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\System.Web.WebPages.Razor.dll
+C:\Users\Renato\Downloads\PROYECTO_POKEMON\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\WebGrease.dll
+C:\Users\Renato\Downloads\PROYECTO_POKEMON\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\ProyectoIntegrador.Datos.dll
+C:\Users\Renato\Downloads\PROYECTO_POKEMON\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\ProyectoIntegrador.Negocio.pdb
+C:\Users\Renato\Downloads\PROYECTO_POKEMON\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\ProyectoIntegradorModelos.pdb
+C:\Users\Renato\Downloads\PROYECTO_POKEMON\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\Newtonsoft.Json.xml
+C:\Users\Renato\Downloads\PROYECTO_POKEMON\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\System.Net.Http.Formatting.xml
+C:\Users\Renato\Downloads\PROYECTO_POKEMON\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\System.Web.Helpers.xml
+C:\Users\Renato\Downloads\PROYECTO_POKEMON\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\System.Web.Http.xml
+C:\Users\Renato\Downloads\PROYECTO_POKEMON\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\System.Web.Http.WebHost.xml
+C:\Users\Renato\Downloads\PROYECTO_POKEMON\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\System.Web.Mvc.xml
+C:\Users\Renato\Downloads\PROYECTO_POKEMON\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\System.Web.Optimization.xml
+C:\Users\Renato\Downloads\PROYECTO_POKEMON\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\System.Web.Razor.xml
+C:\Users\Renato\Downloads\PROYECTO_POKEMON\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\System.Web.WebPages.xml
+C:\Users\Renato\Downloads\PROYECTO_POKEMON\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Renato\Downloads\PROYECTO_POKEMON\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\System.Web.WebPages.Razor.xml
+C:\Users\Renato\Downloads\PROYECTO_POKEMON\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\Antlr3.Runtime.pdb
+C:\Users\Renato\Downloads\PROYECTO_POKEMON\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Renato\Downloads\PROYECTO_POKEMON\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Renato\Downloads\PROYECTO_POKEMON\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Renato\Downloads\PROYECTO_POKEMON\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Renato\Downloads\PROYECTO_POKEMON\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\Microsoft.AI.Web.xml
+C:\Users\Renato\Downloads\PROYECTO_POKEMON\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Renato\Downloads\PROYECTO_POKEMON\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\ProyectoIntegrador.Datos.pdb
+C:\Users\Renato\Downloads\PROYECTO_POKEMON\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\Renato\Downloads\PROYECTO_POKEMON\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Renato\Downloads\PROYECTO_POKEMON\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\es\System.Web.Http.resources.dll
+C:\Users\Renato\Downloads\PROYECTO_POKEMON\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\Renato\Downloads\PROYECTO_POKEMON\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Renato\Downloads\PROYECTO_POKEMON\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Renato\Downloads\PROYECTO_POKEMON\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\es\System.Web.Razor.resources.dll
+C:\Users\Renato\Downloads\PROYECTO_POKEMON\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Renato\Downloads\PROYECTO_POKEMON\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Renato\Downloads\PROYECTO_POKEMON\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Renato\Downloads\PROYECTO_POKEMON\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\obj\Debug\Proyecto_Integrador_API.csprojResolveAssemblyReference.cache
+C:\Users\Renato\Downloads\PROYECTO_POKEMON\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\obj\Debug\Proyecto_Integrador_API.csproj.CoreCompileInputs.cache
+C:\Users\Renato\Downloads\PROYECTO_POKEMON\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\obj\Debug\Proyecto_Integrador_API.dll
+C:\Users\Renato\Downloads\PROYECTO_POKEMON\PROYECTO_POKEMON\Proyecto_Integrador_API\Proyecto_Integrador_API\obj\Debug\Proyecto_Integrador_API.pdb
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\ApplicationInsights.config
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\Proyecto_Integrador_API.dll.config
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\Proyecto_Integrador_API.dll
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\Proyecto_Integrador_API.pdb
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\roslyn\csc.exe
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\roslyn\csc.exe.config
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\roslyn\csc.rsp
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\roslyn\csi.exe
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\roslyn\csi.exe.config
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\roslyn\csi.rsp
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\roslyn\System.AppContext.dll
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\roslyn\System.Collections.Immutable.dll
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\roslyn\System.Console.dll
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\roslyn\System.Diagnostics.Process.dll
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\roslyn\System.IO.Compression.dll
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\roslyn\System.IO.FileSystem.dll
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\roslyn\System.IO.Pipes.dll
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\roslyn\System.Reflection.Metadata.dll
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\roslyn\System.Security.AccessControl.dll
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\roslyn\System.Security.Claims.dll
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\roslyn\System.Security.Principal.Windows.dll
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\roslyn\System.Threading.Thread.dll
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\roslyn\System.ValueTuple.dll
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\roslyn\System.Xml.XmlDocument.dll
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\roslyn\System.Xml.XPath.dll
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\roslyn\vbc.exe
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\roslyn\vbc.exe.config
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\roslyn\vbc.rsp
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\roslyn\VBCSCompiler.exe
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\roslyn\VBCSCompiler.exe.config
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\Antlr3.Runtime.dll
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\Microsoft.AI.Agent.Intercept.dll
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\Microsoft.AI.DependencyCollector.dll
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\Microsoft.AI.Web.dll
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\Microsoft.AI.WindowsServer.dll
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\Microsoft.ApplicationInsights.dll
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\Microsoft.Web.Infrastructure.dll
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\Newtonsoft.Json.dll
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\ProyectoIntegrador.Negocio.dll
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\ProyectoIntegradorModelos.dll
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\System.Diagnostics.DiagnosticSource.dll
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\System.Net.Http.Formatting.dll
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\System.Web.Helpers.dll
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\System.Web.Http.dll
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\System.Web.Http.WebHost.dll
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\System.Web.Mvc.dll
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\System.Web.Optimization.dll
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\System.Web.Razor.dll
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\System.Web.WebPages.Deployment.dll
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\System.Web.WebPages.dll
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\System.Web.WebPages.Razor.dll
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\WebGrease.dll
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\ProyectoIntegrador.Datos.dll
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\ProyectoIntegrador.Negocio.pdb
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\ProyectoIntegradorModelos.pdb
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\Newtonsoft.Json.xml
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\System.Net.Http.Formatting.xml
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\System.Web.Helpers.xml
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\System.Web.Http.xml
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\System.Web.Http.WebHost.xml
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\System.Web.Mvc.xml
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\System.Web.Optimization.xml
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\System.Web.Razor.xml
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\System.Web.WebPages.xml
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\System.Web.WebPages.Deployment.xml
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\System.Web.WebPages.Razor.xml
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\Antlr3.Runtime.pdb
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\System.Diagnostics.DiagnosticSource.xml
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\Microsoft.AI.DependencyCollector.xml
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\Microsoft.AI.WindowsServer.xml
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\Microsoft.AI.Web.xml
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\ProyectoIntegrador.Datos.pdb
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\es\System.Net.Http.Formatting.resources.dll
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\es\System.Web.Helpers.resources.dll
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\es\System.Web.Http.resources.dll
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\es\System.Web.Http.WebHost.resources.dll
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\es\System.Web.Mvc.resources.dll
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\es\System.Web.Optimization.resources.dll
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\es\System.Web.Razor.resources.dll
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\es\System.Web.WebPages.resources.dll
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\es\System.Web.WebPages.Deployment.resources.dll
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API\Proyecto_Integrador_API\bin\es\System.Web.WebPages.Razor.resources.dll
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API\Proyecto_Integrador_API\obj\Debug\Proyecto_Integrador_API.csprojAssemblyReference.cache
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API\Proyecto_Integrador_API\obj\Debug\Proyecto_Integrador_API.csproj.CoreCompileInputs.cache
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API\Proyecto_Integrador_API\obj\Debug\Proyecto_Integrador_API.csproj.CopyComplete
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API\Proyecto_Integrador_API\obj\Debug\Proyecto_Integrador_API.dll
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API\Proyecto_Integrador_API\obj\Debug\Proyecto_Integrador_API.pdb
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API_ISAAC\Proyecto_Integrador_API\bin\ApplicationInsights.config
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API_ISAAC\Proyecto_Integrador_API\bin\Proyecto_Integrador_API.dll.config
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API_ISAAC\Proyecto_Integrador_API\bin\Proyecto_Integrador_API.dll
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API_ISAAC\Proyecto_Integrador_API\bin\Proyecto_Integrador_API.pdb
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API_ISAAC\Proyecto_Integrador_API\bin\roslyn\csc.exe
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API_ISAAC\Proyecto_Integrador_API\bin\roslyn\csc.exe.config
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API_ISAAC\Proyecto_Integrador_API\bin\roslyn\csc.rsp
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API_ISAAC\Proyecto_Integrador_API\bin\roslyn\csi.exe
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API_ISAAC\Proyecto_Integrador_API\bin\roslyn\csi.exe.config
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API_ISAAC\Proyecto_Integrador_API\bin\roslyn\csi.rsp
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API_ISAAC\Proyecto_Integrador_API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API_ISAAC\Proyecto_Integrador_API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API_ISAAC\Proyecto_Integrador_API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API_ISAAC\Proyecto_Integrador_API\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API_ISAAC\Proyecto_Integrador_API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API_ISAAC\Proyecto_Integrador_API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API_ISAAC\Proyecto_Integrador_API\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API_ISAAC\Proyecto_Integrador_API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API_ISAAC\Proyecto_Integrador_API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API_ISAAC\Proyecto_Integrador_API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API_ISAAC\Proyecto_Integrador_API\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API_ISAAC\Proyecto_Integrador_API\bin\roslyn\System.AppContext.dll
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API_ISAAC\Proyecto_Integrador_API\bin\roslyn\System.Collections.Immutable.dll
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API_ISAAC\Proyecto_Integrador_API\bin\roslyn\System.Console.dll
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API_ISAAC\Proyecto_Integrador_API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API_ISAAC\Proyecto_Integrador_API\bin\roslyn\System.Diagnostics.Process.dll
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API_ISAAC\Proyecto_Integrador_API\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API_ISAAC\Proyecto_Integrador_API\bin\roslyn\System.IO.Compression.dll
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API_ISAAC\Proyecto_Integrador_API\bin\roslyn\System.IO.FileSystem.dll
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API_ISAAC\Proyecto_Integrador_API\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API_ISAAC\Proyecto_Integrador_API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API_ISAAC\Proyecto_Integrador_API\bin\roslyn\System.IO.Pipes.dll
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API_ISAAC\Proyecto_Integrador_API\bin\roslyn\System.Reflection.Metadata.dll
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API_ISAAC\Proyecto_Integrador_API\bin\roslyn\System.Security.AccessControl.dll
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API_ISAAC\Proyecto_Integrador_API\bin\roslyn\System.Security.Claims.dll
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API_ISAAC\Proyecto_Integrador_API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API_ISAAC\Proyecto_Integrador_API\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API_ISAAC\Proyecto_Integrador_API\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API_ISAAC\Proyecto_Integrador_API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API_ISAAC\Proyecto_Integrador_API\bin\roslyn\System.Security.Principal.Windows.dll
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API_ISAAC\Proyecto_Integrador_API\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API_ISAAC\Proyecto_Integrador_API\bin\roslyn\System.Threading.Thread.dll
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API_ISAAC\Proyecto_Integrador_API\bin\roslyn\System.ValueTuple.dll
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API_ISAAC\Proyecto_Integrador_API\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API_ISAAC\Proyecto_Integrador_API\bin\roslyn\System.Xml.XmlDocument.dll
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API_ISAAC\Proyecto_Integrador_API\bin\roslyn\System.Xml.XPath.dll
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API_ISAAC\Proyecto_Integrador_API\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API_ISAAC\Proyecto_Integrador_API\bin\roslyn\vbc.exe
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API_ISAAC\Proyecto_Integrador_API\bin\roslyn\vbc.exe.config
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API_ISAAC\Proyecto_Integrador_API\bin\roslyn\vbc.rsp
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API_ISAAC\Proyecto_Integrador_API\bin\roslyn\VBCSCompiler.exe
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API_ISAAC\Proyecto_Integrador_API\bin\roslyn\VBCSCompiler.exe.config
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API_ISAAC\Proyecto_Integrador_API\bin\Antlr3.Runtime.dll
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API_ISAAC\Proyecto_Integrador_API\bin\Microsoft.AI.Agent.Intercept.dll
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API_ISAAC\Proyecto_Integrador_API\bin\Microsoft.AI.DependencyCollector.dll
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API_ISAAC\Proyecto_Integrador_API\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API_ISAAC\Proyecto_Integrador_API\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API_ISAAC\Proyecto_Integrador_API\bin\Microsoft.AI.Web.dll
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API_ISAAC\Proyecto_Integrador_API\bin\Microsoft.AI.WindowsServer.dll
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API_ISAAC\Proyecto_Integrador_API\bin\Microsoft.ApplicationInsights.dll
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API_ISAAC\Proyecto_Integrador_API\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API_ISAAC\Proyecto_Integrador_API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API_ISAAC\Proyecto_Integrador_API\bin\Microsoft.Web.Infrastructure.dll
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API_ISAAC\Proyecto_Integrador_API\bin\Newtonsoft.Json.dll
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API_ISAAC\Proyecto_Integrador_API\bin\ProyectoIntegrador.Negocio.dll
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API_ISAAC\Proyecto_Integrador_API\bin\ProyectoIntegradorModelos.dll
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API_ISAAC\Proyecto_Integrador_API\bin\System.Diagnostics.DiagnosticSource.dll
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API_ISAAC\Proyecto_Integrador_API\bin\System.Net.Http.Formatting.dll
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API_ISAAC\Proyecto_Integrador_API\bin\System.Web.Helpers.dll
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API_ISAAC\Proyecto_Integrador_API\bin\System.Web.Http.dll
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API_ISAAC\Proyecto_Integrador_API\bin\System.Web.Http.WebHost.dll
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API_ISAAC\Proyecto_Integrador_API\bin\System.Web.Mvc.dll
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API_ISAAC\Proyecto_Integrador_API\bin\System.Web.Optimization.dll
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API_ISAAC\Proyecto_Integrador_API\bin\System.Web.Razor.dll
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API_ISAAC\Proyecto_Integrador_API\bin\System.Web.WebPages.Deployment.dll
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API_ISAAC\Proyecto_Integrador_API\bin\System.Web.WebPages.dll
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API_ISAAC\Proyecto_Integrador_API\bin\System.Web.WebPages.Razor.dll
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API_ISAAC\Proyecto_Integrador_API\bin\WebGrease.dll
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API_ISAAC\Proyecto_Integrador_API\bin\ProyectoIntegrador.Datos.dll
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API_ISAAC\Proyecto_Integrador_API\bin\ProyectoIntegrador.Negocio.pdb
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API_ISAAC\Proyecto_Integrador_API\bin\ProyectoIntegradorModelos.pdb
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API_ISAAC\Proyecto_Integrador_API\bin\Newtonsoft.Json.xml
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API_ISAAC\Proyecto_Integrador_API\bin\System.Net.Http.Formatting.xml
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API_ISAAC\Proyecto_Integrador_API\bin\System.Web.Helpers.xml
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API_ISAAC\Proyecto_Integrador_API\bin\System.Web.Http.xml
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API_ISAAC\Proyecto_Integrador_API\bin\System.Web.Http.WebHost.xml
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API_ISAAC\Proyecto_Integrador_API\bin\System.Web.Mvc.xml
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API_ISAAC\Proyecto_Integrador_API\bin\System.Web.Optimization.xml
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API_ISAAC\Proyecto_Integrador_API\bin\System.Web.Razor.xml
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API_ISAAC\Proyecto_Integrador_API\bin\System.Web.WebPages.xml
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API_ISAAC\Proyecto_Integrador_API\bin\System.Web.WebPages.Deployment.xml
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API_ISAAC\Proyecto_Integrador_API\bin\System.Web.WebPages.Razor.xml
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API_ISAAC\Proyecto_Integrador_API\bin\Antlr3.Runtime.pdb
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API_ISAAC\Proyecto_Integrador_API\bin\System.Diagnostics.DiagnosticSource.xml
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API_ISAAC\Proyecto_Integrador_API\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API_ISAAC\Proyecto_Integrador_API\bin\Microsoft.AI.DependencyCollector.xml
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API_ISAAC\Proyecto_Integrador_API\bin\Microsoft.AI.WindowsServer.xml
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API_ISAAC\Proyecto_Integrador_API\bin\Microsoft.AI.Web.xml
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API_ISAAC\Proyecto_Integrador_API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API_ISAAC\Proyecto_Integrador_API\bin\ProyectoIntegrador.Datos.pdb
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API_ISAAC\Proyecto_Integrador_API\bin\es\System.Net.Http.Formatting.resources.dll
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API_ISAAC\Proyecto_Integrador_API\bin\es\System.Web.Helpers.resources.dll
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API_ISAAC\Proyecto_Integrador_API\bin\es\System.Web.Http.resources.dll
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API_ISAAC\Proyecto_Integrador_API\bin\es\System.Web.Http.WebHost.resources.dll
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API_ISAAC\Proyecto_Integrador_API\bin\es\System.Web.Mvc.resources.dll
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API_ISAAC\Proyecto_Integrador_API\bin\es\System.Web.Optimization.resources.dll
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API_ISAAC\Proyecto_Integrador_API\bin\es\System.Web.Razor.resources.dll
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API_ISAAC\Proyecto_Integrador_API\bin\es\System.Web.WebPages.resources.dll
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API_ISAAC\Proyecto_Integrador_API\bin\es\System.Web.WebPages.Deployment.resources.dll
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API_ISAAC\Proyecto_Integrador_API\bin\es\System.Web.WebPages.Razor.resources.dll
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API_ISAAC\Proyecto_Integrador_API\obj\Debug\Proyecto_Integrador_API.csprojAssemblyReference.cache
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API_ISAAC\Proyecto_Integrador_API\obj\Debug\Proyecto_Integrador_API.csproj.CoreCompileInputs.cache
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API_ISAAC\Proyecto_Integrador_API\obj\Debug\Proyecto_Integrador_API.csproj.CopyComplete
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API_ISAAC\Proyecto_Integrador_API\obj\Debug\Proyecto_Integrador_API.dll
+D:\PROYECTO INTEGRADOR\Proyecto_Integrador_API_ISAAC\Proyecto_Integrador_API\obj\Debug\Proyecto_Integrador_API.pdb
+C:\Users\psistemas\Downloads\Proyecto_Integrador_API_ISAAC_MASO\Proyecto_Integrador_API\obj\Debug\Proyecto_Integrador_API.csprojAssemblyReference.cache
+C:\Users\psistemas\Downloads\Proyecto_Integrador_API_ISAAC_MASO\Proyecto_Integrador_API\obj\Debug\Proyecto_Integrador_API.csproj.CoreCompileInputs.cache
+C:\Users\psistemas\Downloads\Proyecto_Integrador_API_ISAAC_MASO\Proyecto_Integrador_API\obj\Debug\Proyecto_Integrador_API.dll
+C:\Users\psistemas\Downloads\Proyecto_Integrador_API_ISAAC_MASO\Proyecto_Integrador_API\obj\Debug\Proyecto_Integrador_API.pdb
+C:\Users\psistemas\Downloads\Proyecto_Integrador_API_ISAAC_MASO\Proyecto_Integrador_API\bin\ApplicationInsights.config
+C:\Users\psistemas\Downloads\Proyecto_Integrador_API_ISAAC_MASO\Proyecto_Integrador_API\bin\Proyecto_Integrador_API.dll.config
+C:\Users\psistemas\Downloads\Proyecto_Integrador_API_ISAAC_MASO\Proyecto_Integrador_API\bin\Proyecto_Integrador_API.dll
+C:\Users\psistemas\Downloads\Proyecto_Integrador_API_ISAAC_MASO\Proyecto_Integrador_API\bin\Proyecto_Integrador_API.pdb
+C:\Users\psistemas\Downloads\Proyecto_Integrador_API_ISAAC_MASO\Proyecto_Integrador_API\bin\roslyn\csc.exe
+C:\Users\psistemas\Downloads\Proyecto_Integrador_API_ISAAC_MASO\Proyecto_Integrador_API\bin\roslyn\csc.exe.config
+C:\Users\psistemas\Downloads\Proyecto_Integrador_API_ISAAC_MASO\Proyecto_Integrador_API\bin\roslyn\csc.rsp
+C:\Users\psistemas\Downloads\Proyecto_Integrador_API_ISAAC_MASO\Proyecto_Integrador_API\bin\roslyn\csi.exe
+C:\Users\psistemas\Downloads\Proyecto_Integrador_API_ISAAC_MASO\Proyecto_Integrador_API\bin\roslyn\csi.exe.config
+C:\Users\psistemas\Downloads\Proyecto_Integrador_API_ISAAC_MASO\Proyecto_Integrador_API\bin\roslyn\csi.rsp
+C:\Users\psistemas\Downloads\Proyecto_Integrador_API_ISAAC_MASO\Proyecto_Integrador_API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\psistemas\Downloads\Proyecto_Integrador_API_ISAAC_MASO\Proyecto_Integrador_API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\psistemas\Downloads\Proyecto_Integrador_API_ISAAC_MASO\Proyecto_Integrador_API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\psistemas\Downloads\Proyecto_Integrador_API_ISAAC_MASO\Proyecto_Integrador_API\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\psistemas\Downloads\Proyecto_Integrador_API_ISAAC_MASO\Proyecto_Integrador_API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\psistemas\Downloads\Proyecto_Integrador_API_ISAAC_MASO\Proyecto_Integrador_API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\psistemas\Downloads\Proyecto_Integrador_API_ISAAC_MASO\Proyecto_Integrador_API\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\psistemas\Downloads\Proyecto_Integrador_API_ISAAC_MASO\Proyecto_Integrador_API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\psistemas\Downloads\Proyecto_Integrador_API_ISAAC_MASO\Proyecto_Integrador_API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\psistemas\Downloads\Proyecto_Integrador_API_ISAAC_MASO\Proyecto_Integrador_API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\psistemas\Downloads\Proyecto_Integrador_API_ISAAC_MASO\Proyecto_Integrador_API\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\psistemas\Downloads\Proyecto_Integrador_API_ISAAC_MASO\Proyecto_Integrador_API\bin\roslyn\System.AppContext.dll
+C:\Users\psistemas\Downloads\Proyecto_Integrador_API_ISAAC_MASO\Proyecto_Integrador_API\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\psistemas\Downloads\Proyecto_Integrador_API_ISAAC_MASO\Proyecto_Integrador_API\bin\roslyn\System.Console.dll
+C:\Users\psistemas\Downloads\Proyecto_Integrador_API_ISAAC_MASO\Proyecto_Integrador_API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\psistemas\Downloads\Proyecto_Integrador_API_ISAAC_MASO\Proyecto_Integrador_API\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\psistemas\Downloads\Proyecto_Integrador_API_ISAAC_MASO\Proyecto_Integrador_API\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\psistemas\Downloads\Proyecto_Integrador_API_ISAAC_MASO\Proyecto_Integrador_API\bin\roslyn\System.IO.Compression.dll
+C:\Users\psistemas\Downloads\Proyecto_Integrador_API_ISAAC_MASO\Proyecto_Integrador_API\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\psistemas\Downloads\Proyecto_Integrador_API_ISAAC_MASO\Proyecto_Integrador_API\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\psistemas\Downloads\Proyecto_Integrador_API_ISAAC_MASO\Proyecto_Integrador_API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\psistemas\Downloads\Proyecto_Integrador_API_ISAAC_MASO\Proyecto_Integrador_API\bin\roslyn\System.IO.Pipes.dll
+C:\Users\psistemas\Downloads\Proyecto_Integrador_API_ISAAC_MASO\Proyecto_Integrador_API\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\psistemas\Downloads\Proyecto_Integrador_API_ISAAC_MASO\Proyecto_Integrador_API\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\psistemas\Downloads\Proyecto_Integrador_API_ISAAC_MASO\Proyecto_Integrador_API\bin\roslyn\System.Security.Claims.dll
+C:\Users\psistemas\Downloads\Proyecto_Integrador_API_ISAAC_MASO\Proyecto_Integrador_API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\psistemas\Downloads\Proyecto_Integrador_API_ISAAC_MASO\Proyecto_Integrador_API\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\psistemas\Downloads\Proyecto_Integrador_API_ISAAC_MASO\Proyecto_Integrador_API\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\psistemas\Downloads\Proyecto_Integrador_API_ISAAC_MASO\Proyecto_Integrador_API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\psistemas\Downloads\Proyecto_Integrador_API_ISAAC_MASO\Proyecto_Integrador_API\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\psistemas\Downloads\Proyecto_Integrador_API_ISAAC_MASO\Proyecto_Integrador_API\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\psistemas\Downloads\Proyecto_Integrador_API_ISAAC_MASO\Proyecto_Integrador_API\bin\roslyn\System.Threading.Thread.dll
+C:\Users\psistemas\Downloads\Proyecto_Integrador_API_ISAAC_MASO\Proyecto_Integrador_API\bin\roslyn\System.ValueTuple.dll
+C:\Users\psistemas\Downloads\Proyecto_Integrador_API_ISAAC_MASO\Proyecto_Integrador_API\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\psistemas\Downloads\Proyecto_Integrador_API_ISAAC_MASO\Proyecto_Integrador_API\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\psistemas\Downloads\Proyecto_Integrador_API_ISAAC_MASO\Proyecto_Integrador_API\bin\roslyn\System.Xml.XPath.dll
+C:\Users\psistemas\Downloads\Proyecto_Integrador_API_ISAAC_MASO\Proyecto_Integrador_API\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\psistemas\Downloads\Proyecto_Integrador_API_ISAAC_MASO\Proyecto_Integrador_API\bin\roslyn\vbc.exe
+C:\Users\psistemas\Downloads\Proyecto_Integrador_API_ISAAC_MASO\Proyecto_Integrador_API\bin\roslyn\vbc.exe.config
+C:\Users\psistemas\Downloads\Proyecto_Integrador_API_ISAAC_MASO\Proyecto_Integrador_API\bin\roslyn\vbc.rsp
+C:\Users\psistemas\Downloads\Proyecto_Integrador_API_ISAAC_MASO\Proyecto_Integrador_API\bin\roslyn\VBCSCompiler.exe
+C:\Users\psistemas\Downloads\Proyecto_Integrador_API_ISAAC_MASO\Proyecto_Integrador_API\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\psistemas\Downloads\Proyecto_Integrador_API_ISAAC_MASO\Proyecto_Integrador_API\bin\Antlr3.Runtime.dll
+C:\Users\psistemas\Downloads\Proyecto_Integrador_API_ISAAC_MASO\Proyecto_Integrador_API\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\psistemas\Downloads\Proyecto_Integrador_API_ISAAC_MASO\Proyecto_Integrador_API\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\psistemas\Downloads\Proyecto_Integrador_API_ISAAC_MASO\Proyecto_Integrador_API\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\psistemas\Downloads\Proyecto_Integrador_API_ISAAC_MASO\Proyecto_Integrador_API\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\psistemas\Downloads\Proyecto_Integrador_API_ISAAC_MASO\Proyecto_Integrador_API\bin\Microsoft.AI.Web.dll
+C:\Users\psistemas\Downloads\Proyecto_Integrador_API_ISAAC_MASO\Proyecto_Integrador_API\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\psistemas\Downloads\Proyecto_Integrador_API_ISAAC_MASO\Proyecto_Integrador_API\bin\Microsoft.ApplicationInsights.dll
+C:\Users\psistemas\Downloads\Proyecto_Integrador_API_ISAAC_MASO\Proyecto_Integrador_API\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\psistemas\Downloads\Proyecto_Integrador_API_ISAAC_MASO\Proyecto_Integrador_API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\psistemas\Downloads\Proyecto_Integrador_API_ISAAC_MASO\Proyecto_Integrador_API\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\psistemas\Downloads\Proyecto_Integrador_API_ISAAC_MASO\Proyecto_Integrador_API\bin\Newtonsoft.Json.dll
+C:\Users\psistemas\Downloads\Proyecto_Integrador_API_ISAAC_MASO\Proyecto_Integrador_API\bin\ProyectoIntegrador.Negocio.dll
+C:\Users\psistemas\Downloads\Proyecto_Integrador_API_ISAAC_MASO\Proyecto_Integrador_API\bin\ProyectoIntegradorModelos.dll
+C:\Users\psistemas\Downloads\Proyecto_Integrador_API_ISAAC_MASO\Proyecto_Integrador_API\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\psistemas\Downloads\Proyecto_Integrador_API_ISAAC_MASO\Proyecto_Integrador_API\bin\System.Net.Http.Formatting.dll
+C:\Users\psistemas\Downloads\Proyecto_Integrador_API_ISAAC_MASO\Proyecto_Integrador_API\bin\System.Web.Helpers.dll
+C:\Users\psistemas\Downloads\Proyecto_Integrador_API_ISAAC_MASO\Proyecto_Integrador_API\bin\System.Web.Http.dll
+C:\Users\psistemas\Downloads\Proyecto_Integrador_API_ISAAC_MASO\Proyecto_Integrador_API\bin\System.Web.Http.WebHost.dll
+C:\Users\psistemas\Downloads\Proyecto_Integrador_API_ISAAC_MASO\Proyecto_Integrador_API\bin\System.Web.Mvc.dll
+C:\Users\psistemas\Downloads\Proyecto_Integrador_API_ISAAC_MASO\Proyecto_Integrador_API\bin\System.Web.Optimization.dll
+C:\Users\psistemas\Downloads\Proyecto_Integrador_API_ISAAC_MASO\Proyecto_Integrador_API\bin\System.Web.Razor.dll
+C:\Users\psistemas\Downloads\Proyecto_Integrador_API_ISAAC_MASO\Proyecto_Integrador_API\bin\System.Web.WebPages.Deployment.dll
+C:\Users\psistemas\Downloads\Proyecto_Integrador_API_ISAAC_MASO\Proyecto_Integrador_API\bin\System.Web.WebPages.dll
+C:\Users\psistemas\Downloads\Proyecto_Integrador_API_ISAAC_MASO\Proyecto_Integrador_API\bin\System.Web.WebPages.Razor.dll
+C:\Users\psistemas\Downloads\Proyecto_Integrador_API_ISAAC_MASO\Proyecto_Integrador_API\bin\WebGrease.dll
+C:\Users\psistemas\Downloads\Proyecto_Integrador_API_ISAAC_MASO\Proyecto_Integrador_API\bin\ProyectoIntegrador.Datos.dll
+C:\Users\psistemas\Downloads\Proyecto_Integrador_API_ISAAC_MASO\Proyecto_Integrador_API\bin\ProyectoIntegrador.Negocio.pdb
+C:\Users\psistemas\Downloads\Proyecto_Integrador_API_ISAAC_MASO\Proyecto_Integrador_API\bin\ProyectoIntegradorModelos.pdb
+C:\Users\psistemas\Downloads\Proyecto_Integrador_API_ISAAC_MASO\Proyecto_Integrador_API\bin\Newtonsoft.Json.xml
+C:\Users\psistemas\Downloads\Proyecto_Integrador_API_ISAAC_MASO\Proyecto_Integrador_API\bin\System.Net.Http.Formatting.xml
+C:\Users\psistemas\Downloads\Proyecto_Integrador_API_ISAAC_MASO\Proyecto_Integrador_API\bin\System.Web.Helpers.xml
+C:\Users\psistemas\Downloads\Proyecto_Integrador_API_ISAAC_MASO\Proyecto_Integrador_API\bin\System.Web.Http.xml
+C:\Users\psistemas\Downloads\Proyecto_Integrador_API_ISAAC_MASO\Proyecto_Integrador_API\bin\System.Web.Http.WebHost.xml
+C:\Users\psistemas\Downloads\Proyecto_Integrador_API_ISAAC_MASO\Proyecto_Integrador_API\bin\System.Web.Mvc.xml
+C:\Users\psistemas\Downloads\Proyecto_Integrador_API_ISAAC_MASO\Proyecto_Integrador_API\bin\System.Web.Optimization.xml
+C:\Users\psistemas\Downloads\Proyecto_Integrador_API_ISAAC_MASO\Proyecto_Integrador_API\bin\System.Web.Razor.xml
+C:\Users\psistemas\Downloads\Proyecto_Integrador_API_ISAAC_MASO\Proyecto_Integrador_API\bin\System.Web.WebPages.xml
+C:\Users\psistemas\Downloads\Proyecto_Integrador_API_ISAAC_MASO\Proyecto_Integrador_API\bin\System.Web.WebPages.Deployment.xml
+C:\Users\psistemas\Downloads\Proyecto_Integrador_API_ISAAC_MASO\Proyecto_Integrador_API\bin\System.Web.WebPages.Razor.xml
+C:\Users\psistemas\Downloads\Proyecto_Integrador_API_ISAAC_MASO\Proyecto_Integrador_API\bin\Antlr3.Runtime.pdb
+C:\Users\psistemas\Downloads\Proyecto_Integrador_API_ISAAC_MASO\Proyecto_Integrador_API\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\psistemas\Downloads\Proyecto_Integrador_API_ISAAC_MASO\Proyecto_Integrador_API\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\psistemas\Downloads\Proyecto_Integrador_API_ISAAC_MASO\Proyecto_Integrador_API\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\psistemas\Downloads\Proyecto_Integrador_API_ISAAC_MASO\Proyecto_Integrador_API\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\psistemas\Downloads\Proyecto_Integrador_API_ISAAC_MASO\Proyecto_Integrador_API\bin\Microsoft.AI.Web.xml
+C:\Users\psistemas\Downloads\Proyecto_Integrador_API_ISAAC_MASO\Proyecto_Integrador_API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\psistemas\Downloads\Proyecto_Integrador_API_ISAAC_MASO\Proyecto_Integrador_API\bin\ProyectoIntegrador.Datos.pdb
+C:\Users\psistemas\Downloads\Proyecto_Integrador_API_ISAAC_MASO\Proyecto_Integrador_API\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\psistemas\Downloads\Proyecto_Integrador_API_ISAAC_MASO\Proyecto_Integrador_API\bin\es\System.Web.Helpers.resources.dll
+C:\Users\psistemas\Downloads\Proyecto_Integrador_API_ISAAC_MASO\Proyecto_Integrador_API\bin\es\System.Web.Http.resources.dll
+C:\Users\psistemas\Downloads\Proyecto_Integrador_API_ISAAC_MASO\Proyecto_Integrador_API\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\psistemas\Downloads\Proyecto_Integrador_API_ISAAC_MASO\Proyecto_Integrador_API\bin\es\System.Web.Mvc.resources.dll
+C:\Users\psistemas\Downloads\Proyecto_Integrador_API_ISAAC_MASO\Proyecto_Integrador_API\bin\es\System.Web.Optimization.resources.dll
+C:\Users\psistemas\Downloads\Proyecto_Integrador_API_ISAAC_MASO\Proyecto_Integrador_API\bin\es\System.Web.Razor.resources.dll
+C:\Users\psistemas\Downloads\Proyecto_Integrador_API_ISAAC_MASO\Proyecto_Integrador_API\bin\es\System.Web.WebPages.resources.dll
+C:\Users\psistemas\Downloads\Proyecto_Integrador_API_ISAAC_MASO\Proyecto_Integrador_API\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\psistemas\Downloads\Proyecto_Integrador_API_ISAAC_MASO\Proyecto_Integrador_API\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\psistemas\Downloads\Proyecto_Integrador_API_ISAAC_MASO\Proyecto_Integrador_API\obj\Debug\Proyecto_Integrador_API.csproj.CopyComplete
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\Proyecto_Integrador_API_ISAAC_MASO20\Proyecto_Integrador_API_ISAAC_MASO2\Proyecto_Integrador_API\obj\Debug\Proyecto_Integrador_API.dll
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\Proyecto_Integrador_API_ISAAC_MASO20\Proyecto_Integrador_API_ISAAC_MASO2\Proyecto_Integrador_API\obj\Debug\Proyecto_Integrador_API.pdb
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\Proyecto_Integrador_API_ISAAC_MASO20\Proyecto_Integrador_API_ISAAC_MASO2\Proyecto_Integrador_API\bin\ApplicationInsights.config
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\Proyecto_Integrador_API_ISAAC_MASO20\Proyecto_Integrador_API_ISAAC_MASO2\Proyecto_Integrador_API\bin\Proyecto_Integrador_API.dll.config
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\Proyecto_Integrador_API_ISAAC_MASO20\Proyecto_Integrador_API_ISAAC_MASO2\Proyecto_Integrador_API\bin\Proyecto_Integrador_API.dll
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\Proyecto_Integrador_API_ISAAC_MASO20\Proyecto_Integrador_API_ISAAC_MASO2\Proyecto_Integrador_API\bin\Proyecto_Integrador_API.pdb
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\Proyecto_Integrador_API_ISAAC_MASO20\Proyecto_Integrador_API_ISAAC_MASO2\Proyecto_Integrador_API\bin\roslyn\csc.exe
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\Proyecto_Integrador_API_ISAAC_MASO20\Proyecto_Integrador_API_ISAAC_MASO2\Proyecto_Integrador_API\bin\roslyn\csc.exe.config
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\Proyecto_Integrador_API_ISAAC_MASO20\Proyecto_Integrador_API_ISAAC_MASO2\Proyecto_Integrador_API\bin\roslyn\csc.rsp
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\Proyecto_Integrador_API_ISAAC_MASO20\Proyecto_Integrador_API_ISAAC_MASO2\Proyecto_Integrador_API\bin\roslyn\csi.exe
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\Proyecto_Integrador_API_ISAAC_MASO20\Proyecto_Integrador_API_ISAAC_MASO2\Proyecto_Integrador_API\bin\roslyn\csi.exe.config
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\Proyecto_Integrador_API_ISAAC_MASO20\Proyecto_Integrador_API_ISAAC_MASO2\Proyecto_Integrador_API\bin\roslyn\csi.rsp
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\Proyecto_Integrador_API_ISAAC_MASO20\Proyecto_Integrador_API_ISAAC_MASO2\Proyecto_Integrador_API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\Proyecto_Integrador_API_ISAAC_MASO20\Proyecto_Integrador_API_ISAAC_MASO2\Proyecto_Integrador_API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\Proyecto_Integrador_API_ISAAC_MASO20\Proyecto_Integrador_API_ISAAC_MASO2\Proyecto_Integrador_API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\Proyecto_Integrador_API_ISAAC_MASO20\Proyecto_Integrador_API_ISAAC_MASO2\Proyecto_Integrador_API\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\Proyecto_Integrador_API_ISAAC_MASO20\Proyecto_Integrador_API_ISAAC_MASO2\Proyecto_Integrador_API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\Proyecto_Integrador_API_ISAAC_MASO20\Proyecto_Integrador_API_ISAAC_MASO2\Proyecto_Integrador_API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\Proyecto_Integrador_API_ISAAC_MASO20\Proyecto_Integrador_API_ISAAC_MASO2\Proyecto_Integrador_API\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\Proyecto_Integrador_API_ISAAC_MASO20\Proyecto_Integrador_API_ISAAC_MASO2\Proyecto_Integrador_API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\Proyecto_Integrador_API_ISAAC_MASO20\Proyecto_Integrador_API_ISAAC_MASO2\Proyecto_Integrador_API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\Proyecto_Integrador_API_ISAAC_MASO20\Proyecto_Integrador_API_ISAAC_MASO2\Proyecto_Integrador_API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\Proyecto_Integrador_API_ISAAC_MASO20\Proyecto_Integrador_API_ISAAC_MASO2\Proyecto_Integrador_API\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\Proyecto_Integrador_API_ISAAC_MASO20\Proyecto_Integrador_API_ISAAC_MASO2\Proyecto_Integrador_API\bin\roslyn\System.AppContext.dll
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\Proyecto_Integrador_API_ISAAC_MASO20\Proyecto_Integrador_API_ISAAC_MASO2\Proyecto_Integrador_API\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\Proyecto_Integrador_API_ISAAC_MASO20\Proyecto_Integrador_API_ISAAC_MASO2\Proyecto_Integrador_API\bin\roslyn\System.Console.dll
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\Proyecto_Integrador_API_ISAAC_MASO20\Proyecto_Integrador_API_ISAAC_MASO2\Proyecto_Integrador_API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\Proyecto_Integrador_API_ISAAC_MASO20\Proyecto_Integrador_API_ISAAC_MASO2\Proyecto_Integrador_API\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\Proyecto_Integrador_API_ISAAC_MASO20\Proyecto_Integrador_API_ISAAC_MASO2\Proyecto_Integrador_API\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\Proyecto_Integrador_API_ISAAC_MASO20\Proyecto_Integrador_API_ISAAC_MASO2\Proyecto_Integrador_API\bin\roslyn\System.IO.Compression.dll
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\Proyecto_Integrador_API_ISAAC_MASO20\Proyecto_Integrador_API_ISAAC_MASO2\Proyecto_Integrador_API\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\Proyecto_Integrador_API_ISAAC_MASO20\Proyecto_Integrador_API_ISAAC_MASO2\Proyecto_Integrador_API\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\Proyecto_Integrador_API_ISAAC_MASO20\Proyecto_Integrador_API_ISAAC_MASO2\Proyecto_Integrador_API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\Proyecto_Integrador_API_ISAAC_MASO20\Proyecto_Integrador_API_ISAAC_MASO2\Proyecto_Integrador_API\bin\roslyn\System.IO.Pipes.dll
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\Proyecto_Integrador_API_ISAAC_MASO20\Proyecto_Integrador_API_ISAAC_MASO2\Proyecto_Integrador_API\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\Proyecto_Integrador_API_ISAAC_MASO20\Proyecto_Integrador_API_ISAAC_MASO2\Proyecto_Integrador_API\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\Proyecto_Integrador_API_ISAAC_MASO20\Proyecto_Integrador_API_ISAAC_MASO2\Proyecto_Integrador_API\bin\roslyn\System.Security.Claims.dll
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\Proyecto_Integrador_API_ISAAC_MASO20\Proyecto_Integrador_API_ISAAC_MASO2\Proyecto_Integrador_API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\Proyecto_Integrador_API_ISAAC_MASO20\Proyecto_Integrador_API_ISAAC_MASO2\Proyecto_Integrador_API\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\Proyecto_Integrador_API_ISAAC_MASO20\Proyecto_Integrador_API_ISAAC_MASO2\Proyecto_Integrador_API\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\Proyecto_Integrador_API_ISAAC_MASO20\Proyecto_Integrador_API_ISAAC_MASO2\Proyecto_Integrador_API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\Proyecto_Integrador_API_ISAAC_MASO20\Proyecto_Integrador_API_ISAAC_MASO2\Proyecto_Integrador_API\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\Proyecto_Integrador_API_ISAAC_MASO20\Proyecto_Integrador_API_ISAAC_MASO2\Proyecto_Integrador_API\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\Proyecto_Integrador_API_ISAAC_MASO20\Proyecto_Integrador_API_ISAAC_MASO2\Proyecto_Integrador_API\bin\roslyn\System.Threading.Thread.dll
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\Proyecto_Integrador_API_ISAAC_MASO20\Proyecto_Integrador_API_ISAAC_MASO2\Proyecto_Integrador_API\bin\roslyn\System.ValueTuple.dll
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\Proyecto_Integrador_API_ISAAC_MASO20\Proyecto_Integrador_API_ISAAC_MASO2\Proyecto_Integrador_API\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\Proyecto_Integrador_API_ISAAC_MASO20\Proyecto_Integrador_API_ISAAC_MASO2\Proyecto_Integrador_API\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\Proyecto_Integrador_API_ISAAC_MASO20\Proyecto_Integrador_API_ISAAC_MASO2\Proyecto_Integrador_API\bin\roslyn\System.Xml.XPath.dll
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\Proyecto_Integrador_API_ISAAC_MASO20\Proyecto_Integrador_API_ISAAC_MASO2\Proyecto_Integrador_API\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\Proyecto_Integrador_API_ISAAC_MASO20\Proyecto_Integrador_API_ISAAC_MASO2\Proyecto_Integrador_API\bin\roslyn\vbc.exe
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\Proyecto_Integrador_API_ISAAC_MASO20\Proyecto_Integrador_API_ISAAC_MASO2\Proyecto_Integrador_API\bin\roslyn\vbc.exe.config
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\Proyecto_Integrador_API_ISAAC_MASO20\Proyecto_Integrador_API_ISAAC_MASO2\Proyecto_Integrador_API\bin\roslyn\vbc.rsp
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\Proyecto_Integrador_API_ISAAC_MASO20\Proyecto_Integrador_API_ISAAC_MASO2\Proyecto_Integrador_API\bin\roslyn\VBCSCompiler.exe
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\Proyecto_Integrador_API_ISAAC_MASO20\Proyecto_Integrador_API_ISAAC_MASO2\Proyecto_Integrador_API\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\Proyecto_Integrador_API_ISAAC_MASO20\Proyecto_Integrador_API_ISAAC_MASO2\Proyecto_Integrador_API\bin\Antlr3.Runtime.dll
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\Proyecto_Integrador_API_ISAAC_MASO20\Proyecto_Integrador_API_ISAAC_MASO2\Proyecto_Integrador_API\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\Proyecto_Integrador_API_ISAAC_MASO20\Proyecto_Integrador_API_ISAAC_MASO2\Proyecto_Integrador_API\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\Proyecto_Integrador_API_ISAAC_MASO20\Proyecto_Integrador_API_ISAAC_MASO2\Proyecto_Integrador_API\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\Proyecto_Integrador_API_ISAAC_MASO20\Proyecto_Integrador_API_ISAAC_MASO2\Proyecto_Integrador_API\bin\Microsoft.AI.Web.dll
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\Proyecto_Integrador_API_ISAAC_MASO20\Proyecto_Integrador_API_ISAAC_MASO2\Proyecto_Integrador_API\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\Proyecto_Integrador_API_ISAAC_MASO20\Proyecto_Integrador_API_ISAAC_MASO2\Proyecto_Integrador_API\bin\Microsoft.ApplicationInsights.dll
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\Proyecto_Integrador_API_ISAAC_MASO20\Proyecto_Integrador_API_ISAAC_MASO2\Proyecto_Integrador_API\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\Proyecto_Integrador_API_ISAAC_MASO20\Proyecto_Integrador_API_ISAAC_MASO2\Proyecto_Integrador_API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\Proyecto_Integrador_API_ISAAC_MASO20\Proyecto_Integrador_API_ISAAC_MASO2\Proyecto_Integrador_API\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\Proyecto_Integrador_API_ISAAC_MASO20\Proyecto_Integrador_API_ISAAC_MASO2\Proyecto_Integrador_API\bin\Newtonsoft.Json.dll
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\Proyecto_Integrador_API_ISAAC_MASO20\Proyecto_Integrador_API_ISAAC_MASO2\Proyecto_Integrador_API\bin\ProyectoIntegrador.Negocio.dll
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\Proyecto_Integrador_API_ISAAC_MASO20\Proyecto_Integrador_API_ISAAC_MASO2\Proyecto_Integrador_API\bin\ProyectoIntegradorModelos.dll
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\Proyecto_Integrador_API_ISAAC_MASO20\Proyecto_Integrador_API_ISAAC_MASO2\Proyecto_Integrador_API\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\Proyecto_Integrador_API_ISAAC_MASO20\Proyecto_Integrador_API_ISAAC_MASO2\Proyecto_Integrador_API\bin\System.Net.Http.Formatting.dll
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\Proyecto_Integrador_API_ISAAC_MASO20\Proyecto_Integrador_API_ISAAC_MASO2\Proyecto_Integrador_API\bin\System.Web.Helpers.dll
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\Proyecto_Integrador_API_ISAAC_MASO20\Proyecto_Integrador_API_ISAAC_MASO2\Proyecto_Integrador_API\bin\System.Web.Http.dll
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\Proyecto_Integrador_API_ISAAC_MASO20\Proyecto_Integrador_API_ISAAC_MASO2\Proyecto_Integrador_API\bin\System.Web.Http.WebHost.dll
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\Proyecto_Integrador_API_ISAAC_MASO20\Proyecto_Integrador_API_ISAAC_MASO2\Proyecto_Integrador_API\bin\System.Web.Mvc.dll
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\Proyecto_Integrador_API_ISAAC_MASO20\Proyecto_Integrador_API_ISAAC_MASO2\Proyecto_Integrador_API\bin\System.Web.Optimization.dll
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\Proyecto_Integrador_API_ISAAC_MASO20\Proyecto_Integrador_API_ISAAC_MASO2\Proyecto_Integrador_API\bin\System.Web.Razor.dll
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\Proyecto_Integrador_API_ISAAC_MASO20\Proyecto_Integrador_API_ISAAC_MASO2\Proyecto_Integrador_API\bin\System.Web.WebPages.Deployment.dll
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\Proyecto_Integrador_API_ISAAC_MASO20\Proyecto_Integrador_API_ISAAC_MASO2\Proyecto_Integrador_API\bin\System.Web.WebPages.dll
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\Proyecto_Integrador_API_ISAAC_MASO20\Proyecto_Integrador_API_ISAAC_MASO2\Proyecto_Integrador_API\bin\System.Web.WebPages.Razor.dll
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\Proyecto_Integrador_API_ISAAC_MASO20\Proyecto_Integrador_API_ISAAC_MASO2\Proyecto_Integrador_API\bin\WebGrease.dll
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\Proyecto_Integrador_API_ISAAC_MASO20\Proyecto_Integrador_API_ISAAC_MASO2\Proyecto_Integrador_API\bin\ProyectoIntegrador.Datos.dll
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\Proyecto_Integrador_API_ISAAC_MASO20\Proyecto_Integrador_API_ISAAC_MASO2\Proyecto_Integrador_API\bin\ProyectoIntegrador.Negocio.pdb
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\Proyecto_Integrador_API_ISAAC_MASO20\Proyecto_Integrador_API_ISAAC_MASO2\Proyecto_Integrador_API\bin\ProyectoIntegradorModelos.pdb
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\Proyecto_Integrador_API_ISAAC_MASO20\Proyecto_Integrador_API_ISAAC_MASO2\Proyecto_Integrador_API\bin\Newtonsoft.Json.xml
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\Proyecto_Integrador_API_ISAAC_MASO20\Proyecto_Integrador_API_ISAAC_MASO2\Proyecto_Integrador_API\bin\System.Net.Http.Formatting.xml
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\Proyecto_Integrador_API_ISAAC_MASO20\Proyecto_Integrador_API_ISAAC_MASO2\Proyecto_Integrador_API\bin\System.Web.Helpers.xml
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\Proyecto_Integrador_API_ISAAC_MASO20\Proyecto_Integrador_API_ISAAC_MASO2\Proyecto_Integrador_API\bin\System.Web.Http.xml
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\Proyecto_Integrador_API_ISAAC_MASO20\Proyecto_Integrador_API_ISAAC_MASO2\Proyecto_Integrador_API\bin\System.Web.Http.WebHost.xml
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\Proyecto_Integrador_API_ISAAC_MASO20\Proyecto_Integrador_API_ISAAC_MASO2\Proyecto_Integrador_API\bin\System.Web.Mvc.xml
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\Proyecto_Integrador_API_ISAAC_MASO20\Proyecto_Integrador_API_ISAAC_MASO2\Proyecto_Integrador_API\bin\System.Web.Optimization.xml
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\Proyecto_Integrador_API_ISAAC_MASO20\Proyecto_Integrador_API_ISAAC_MASO2\Proyecto_Integrador_API\bin\System.Web.Razor.xml
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\Proyecto_Integrador_API_ISAAC_MASO20\Proyecto_Integrador_API_ISAAC_MASO2\Proyecto_Integrador_API\bin\System.Web.WebPages.xml
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\Proyecto_Integrador_API_ISAAC_MASO20\Proyecto_Integrador_API_ISAAC_MASO2\Proyecto_Integrador_API\bin\System.Web.WebPages.Deployment.xml
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\Proyecto_Integrador_API_ISAAC_MASO20\Proyecto_Integrador_API_ISAAC_MASO2\Proyecto_Integrador_API\bin\System.Web.WebPages.Razor.xml
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\Proyecto_Integrador_API_ISAAC_MASO20\Proyecto_Integrador_API_ISAAC_MASO2\Proyecto_Integrador_API\bin\Antlr3.Runtime.pdb
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\Proyecto_Integrador_API_ISAAC_MASO20\Proyecto_Integrador_API_ISAAC_MASO2\Proyecto_Integrador_API\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\Proyecto_Integrador_API_ISAAC_MASO20\Proyecto_Integrador_API_ISAAC_MASO2\Proyecto_Integrador_API\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\Proyecto_Integrador_API_ISAAC_MASO20\Proyecto_Integrador_API_ISAAC_MASO2\Proyecto_Integrador_API\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\Proyecto_Integrador_API_ISAAC_MASO20\Proyecto_Integrador_API_ISAAC_MASO2\Proyecto_Integrador_API\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\Proyecto_Integrador_API_ISAAC_MASO20\Proyecto_Integrador_API_ISAAC_MASO2\Proyecto_Integrador_API\bin\Microsoft.AI.Web.xml
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\Proyecto_Integrador_API_ISAAC_MASO20\Proyecto_Integrador_API_ISAAC_MASO2\Proyecto_Integrador_API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\Proyecto_Integrador_API_ISAAC_MASO20\Proyecto_Integrador_API_ISAAC_MASO2\Proyecto_Integrador_API\bin\ProyectoIntegrador.Datos.pdb
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\Proyecto_Integrador_API_ISAAC_MASO20\Proyecto_Integrador_API_ISAAC_MASO2\Proyecto_Integrador_API\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\Proyecto_Integrador_API_ISAAC_MASO20\Proyecto_Integrador_API_ISAAC_MASO2\Proyecto_Integrador_API\bin\es\System.Web.Helpers.resources.dll
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\Proyecto_Integrador_API_ISAAC_MASO20\Proyecto_Integrador_API_ISAAC_MASO2\Proyecto_Integrador_API\bin\es\System.Web.Http.resources.dll
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\Proyecto_Integrador_API_ISAAC_MASO20\Proyecto_Integrador_API_ISAAC_MASO2\Proyecto_Integrador_API\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\Proyecto_Integrador_API_ISAAC_MASO20\Proyecto_Integrador_API_ISAAC_MASO2\Proyecto_Integrador_API\bin\es\System.Web.Mvc.resources.dll
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\Proyecto_Integrador_API_ISAAC_MASO20\Proyecto_Integrador_API_ISAAC_MASO2\Proyecto_Integrador_API\bin\es\System.Web.Optimization.resources.dll
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\Proyecto_Integrador_API_ISAAC_MASO20\Proyecto_Integrador_API_ISAAC_MASO2\Proyecto_Integrador_API\bin\es\System.Web.Razor.resources.dll
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\Proyecto_Integrador_API_ISAAC_MASO20\Proyecto_Integrador_API_ISAAC_MASO2\Proyecto_Integrador_API\bin\es\System.Web.WebPages.resources.dll
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\Proyecto_Integrador_API_ISAAC_MASO20\Proyecto_Integrador_API_ISAAC_MASO2\Proyecto_Integrador_API\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\Proyecto_Integrador_API_ISAAC_MASO20\Proyecto_Integrador_API_ISAAC_MASO2\Proyecto_Integrador_API\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\Proyecto_Integrador_API_ISAAC_MASO20\Proyecto_Integrador_API_ISAAC_MASO2\Proyecto_Integrador_API\obj\Debug\Proyecto_Integrador_API.csprojResolveAssemblyReference.cache
+C:\Users\psistemas\Downloads\Proyecto_Integrador_API_ISAAC_MASO203\Proyecto_Integrador_API_ISAAC_MASO203\Proyecto_Integrador_API_ISAAC_MASO2\Proyecto_Integrador_API\obj\Debug\Proyecto_Integrador_API.dll
+C:\Users\psistemas\Downloads\Proyecto_Integrador_API_ISAAC_MASO203\Proyecto_Integrador_API_ISAAC_MASO203\Proyecto_Integrador_API_ISAAC_MASO2\Proyecto_Integrador_API\obj\Debug\Proyecto_Integrador_API.pdb
+C:\Users\psistemas\Downloads\API203\Proyecto_Integrador_API\obj\Debug\Proyecto_Integrador_API.csprojAssemblyReference.cache
+C:\Users\psistemas\Downloads\API203\Proyecto_Integrador_API\obj\Debug\Proyecto_Integrador_API.csproj.CoreCompileInputs.cache
+C:\Users\psistemas\Downloads\API203\Proyecto_Integrador_API\obj\Debug\Proyecto_Integrador_API.dll
+C:\Users\psistemas\Downloads\API203\Proyecto_Integrador_API\obj\Debug\Proyecto_Integrador_API.pdb
+C:\Users\psistemas\Downloads\API203\Proyecto_Integrador_API\bin\ApplicationInsights.config
+C:\Users\psistemas\Downloads\API203\Proyecto_Integrador_API\bin\Proyecto_Integrador_API.dll.config
+C:\Users\psistemas\Downloads\API203\Proyecto_Integrador_API\bin\Proyecto_Integrador_API.dll
+C:\Users\psistemas\Downloads\API203\Proyecto_Integrador_API\bin\Proyecto_Integrador_API.pdb
+C:\Users\psistemas\Downloads\API203\Proyecto_Integrador_API\bin\roslyn\csc.exe
+C:\Users\psistemas\Downloads\API203\Proyecto_Integrador_API\bin\roslyn\csc.exe.config
+C:\Users\psistemas\Downloads\API203\Proyecto_Integrador_API\bin\roslyn\csc.rsp
+C:\Users\psistemas\Downloads\API203\Proyecto_Integrador_API\bin\roslyn\csi.exe
+C:\Users\psistemas\Downloads\API203\Proyecto_Integrador_API\bin\roslyn\csi.exe.config
+C:\Users\psistemas\Downloads\API203\Proyecto_Integrador_API\bin\roslyn\csi.rsp
+C:\Users\psistemas\Downloads\API203\Proyecto_Integrador_API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\psistemas\Downloads\API203\Proyecto_Integrador_API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\psistemas\Downloads\API203\Proyecto_Integrador_API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\psistemas\Downloads\API203\Proyecto_Integrador_API\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\psistemas\Downloads\API203\Proyecto_Integrador_API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\psistemas\Downloads\API203\Proyecto_Integrador_API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\psistemas\Downloads\API203\Proyecto_Integrador_API\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\psistemas\Downloads\API203\Proyecto_Integrador_API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\psistemas\Downloads\API203\Proyecto_Integrador_API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\psistemas\Downloads\API203\Proyecto_Integrador_API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\psistemas\Downloads\API203\Proyecto_Integrador_API\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\psistemas\Downloads\API203\Proyecto_Integrador_API\bin\roslyn\System.AppContext.dll
+C:\Users\psistemas\Downloads\API203\Proyecto_Integrador_API\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\psistemas\Downloads\API203\Proyecto_Integrador_API\bin\roslyn\System.Console.dll
+C:\Users\psistemas\Downloads\API203\Proyecto_Integrador_API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\psistemas\Downloads\API203\Proyecto_Integrador_API\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\psistemas\Downloads\API203\Proyecto_Integrador_API\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\psistemas\Downloads\API203\Proyecto_Integrador_API\bin\roslyn\System.IO.Compression.dll
+C:\Users\psistemas\Downloads\API203\Proyecto_Integrador_API\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\psistemas\Downloads\API203\Proyecto_Integrador_API\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\psistemas\Downloads\API203\Proyecto_Integrador_API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\psistemas\Downloads\API203\Proyecto_Integrador_API\bin\roslyn\System.IO.Pipes.dll
+C:\Users\psistemas\Downloads\API203\Proyecto_Integrador_API\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\psistemas\Downloads\API203\Proyecto_Integrador_API\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\psistemas\Downloads\API203\Proyecto_Integrador_API\bin\roslyn\System.Security.Claims.dll
+C:\Users\psistemas\Downloads\API203\Proyecto_Integrador_API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\psistemas\Downloads\API203\Proyecto_Integrador_API\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\psistemas\Downloads\API203\Proyecto_Integrador_API\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\psistemas\Downloads\API203\Proyecto_Integrador_API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\psistemas\Downloads\API203\Proyecto_Integrador_API\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\psistemas\Downloads\API203\Proyecto_Integrador_API\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\psistemas\Downloads\API203\Proyecto_Integrador_API\bin\roslyn\System.Threading.Thread.dll
+C:\Users\psistemas\Downloads\API203\Proyecto_Integrador_API\bin\roslyn\System.ValueTuple.dll
+C:\Users\psistemas\Downloads\API203\Proyecto_Integrador_API\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\psistemas\Downloads\API203\Proyecto_Integrador_API\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\psistemas\Downloads\API203\Proyecto_Integrador_API\bin\roslyn\System.Xml.XPath.dll
+C:\Users\psistemas\Downloads\API203\Proyecto_Integrador_API\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\psistemas\Downloads\API203\Proyecto_Integrador_API\bin\roslyn\vbc.exe
+C:\Users\psistemas\Downloads\API203\Proyecto_Integrador_API\bin\roslyn\vbc.exe.config
+C:\Users\psistemas\Downloads\API203\Proyecto_Integrador_API\bin\roslyn\vbc.rsp
+C:\Users\psistemas\Downloads\API203\Proyecto_Integrador_API\bin\roslyn\VBCSCompiler.exe
+C:\Users\psistemas\Downloads\API203\Proyecto_Integrador_API\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\psistemas\Downloads\API203\Proyecto_Integrador_API\bin\Antlr3.Runtime.dll
+C:\Users\psistemas\Downloads\API203\Proyecto_Integrador_API\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\psistemas\Downloads\API203\Proyecto_Integrador_API\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\psistemas\Downloads\API203\Proyecto_Integrador_API\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\psistemas\Downloads\API203\Proyecto_Integrador_API\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\psistemas\Downloads\API203\Proyecto_Integrador_API\bin\Microsoft.AI.Web.dll
+C:\Users\psistemas\Downloads\API203\Proyecto_Integrador_API\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\psistemas\Downloads\API203\Proyecto_Integrador_API\bin\Microsoft.ApplicationInsights.dll
+C:\Users\psistemas\Downloads\API203\Proyecto_Integrador_API\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\psistemas\Downloads\API203\Proyecto_Integrador_API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\psistemas\Downloads\API203\Proyecto_Integrador_API\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\psistemas\Downloads\API203\Proyecto_Integrador_API\bin\Newtonsoft.Json.dll
+C:\Users\psistemas\Downloads\API203\Proyecto_Integrador_API\bin\ProyectoIntegrador.Negocio.dll
+C:\Users\psistemas\Downloads\API203\Proyecto_Integrador_API\bin\ProyectoIntegradorModelos.dll
+C:\Users\psistemas\Downloads\API203\Proyecto_Integrador_API\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\psistemas\Downloads\API203\Proyecto_Integrador_API\bin\System.Net.Http.Formatting.dll
+C:\Users\psistemas\Downloads\API203\Proyecto_Integrador_API\bin\System.Web.Helpers.dll
+C:\Users\psistemas\Downloads\API203\Proyecto_Integrador_API\bin\System.Web.Http.dll
+C:\Users\psistemas\Downloads\API203\Proyecto_Integrador_API\bin\System.Web.Http.WebHost.dll
+C:\Users\psistemas\Downloads\API203\Proyecto_Integrador_API\bin\System.Web.Mvc.dll
+C:\Users\psistemas\Downloads\API203\Proyecto_Integrador_API\bin\System.Web.Optimization.dll
+C:\Users\psistemas\Downloads\API203\Proyecto_Integrador_API\bin\System.Web.Razor.dll
+C:\Users\psistemas\Downloads\API203\Proyecto_Integrador_API\bin\System.Web.WebPages.Deployment.dll
+C:\Users\psistemas\Downloads\API203\Proyecto_Integrador_API\bin\System.Web.WebPages.dll
+C:\Users\psistemas\Downloads\API203\Proyecto_Integrador_API\bin\System.Web.WebPages.Razor.dll
+C:\Users\psistemas\Downloads\API203\Proyecto_Integrador_API\bin\WebGrease.dll
+C:\Users\psistemas\Downloads\API203\Proyecto_Integrador_API\bin\ProyectoIntegrador.Datos.dll
+C:\Users\psistemas\Downloads\API203\Proyecto_Integrador_API\bin\ProyectoIntegrador.Negocio.pdb
+C:\Users\psistemas\Downloads\API203\Proyecto_Integrador_API\bin\ProyectoIntegradorModelos.pdb
+C:\Users\psistemas\Downloads\API203\Proyecto_Integrador_API\bin\Newtonsoft.Json.xml
+C:\Users\psistemas\Downloads\API203\Proyecto_Integrador_API\bin\System.Net.Http.Formatting.xml
+C:\Users\psistemas\Downloads\API203\Proyecto_Integrador_API\bin\System.Web.Helpers.xml
+C:\Users\psistemas\Downloads\API203\Proyecto_Integrador_API\bin\System.Web.Http.xml
+C:\Users\psistemas\Downloads\API203\Proyecto_Integrador_API\bin\System.Web.Http.WebHost.xml
+C:\Users\psistemas\Downloads\API203\Proyecto_Integrador_API\bin\System.Web.Mvc.xml
+C:\Users\psistemas\Downloads\API203\Proyecto_Integrador_API\bin\System.Web.Optimization.xml
+C:\Users\psistemas\Downloads\API203\Proyecto_Integrador_API\bin\System.Web.Razor.xml
+C:\Users\psistemas\Downloads\API203\Proyecto_Integrador_API\bin\System.Web.WebPages.xml
+C:\Users\psistemas\Downloads\API203\Proyecto_Integrador_API\bin\System.Web.WebPages.Deployment.xml
+C:\Users\psistemas\Downloads\API203\Proyecto_Integrador_API\bin\System.Web.WebPages.Razor.xml
+C:\Users\psistemas\Downloads\API203\Proyecto_Integrador_API\bin\Antlr3.Runtime.pdb
+C:\Users\psistemas\Downloads\API203\Proyecto_Integrador_API\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\psistemas\Downloads\API203\Proyecto_Integrador_API\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\psistemas\Downloads\API203\Proyecto_Integrador_API\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\psistemas\Downloads\API203\Proyecto_Integrador_API\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\psistemas\Downloads\API203\Proyecto_Integrador_API\bin\Microsoft.AI.Web.xml
+C:\Users\psistemas\Downloads\API203\Proyecto_Integrador_API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\psistemas\Downloads\API203\Proyecto_Integrador_API\bin\ProyectoIntegrador.Datos.pdb
+C:\Users\psistemas\Downloads\API203\Proyecto_Integrador_API\bin\es\System.Web.Helpers.resources.dll
+C:\Users\psistemas\Downloads\API203\Proyecto_Integrador_API\bin\es\System.Web.Http.resources.dll
+C:\Users\psistemas\Downloads\API203\Proyecto_Integrador_API\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\psistemas\Downloads\API203\Proyecto_Integrador_API\bin\es\System.Web.Mvc.resources.dll
+C:\Users\psistemas\Downloads\API203\Proyecto_Integrador_API\bin\es\System.Web.Optimization.resources.dll
+C:\Users\psistemas\Downloads\API203\Proyecto_Integrador_API\bin\es\System.Web.Razor.resources.dll
+C:\Users\psistemas\Downloads\API203\Proyecto_Integrador_API\bin\es\System.Web.WebPages.resources.dll
+C:\Users\psistemas\Downloads\API203\Proyecto_Integrador_API\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\psistemas\Downloads\API203\Proyecto_Integrador_API\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\psistemas\Downloads\API203\Proyecto_Integrador_API\obj\Debug\Proyecto_Integrador_API.csproj.CopyComplete
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\API203\Proyecto_Integrador_API\bin\ApplicationInsights.config
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\API203\Proyecto_Integrador_API\bin\Proyecto_Integrador_API.dll.config
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\API203\Proyecto_Integrador_API\bin\Proyecto_Integrador_API.dll
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\API203\Proyecto_Integrador_API\bin\Proyecto_Integrador_API.pdb
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\API203\Proyecto_Integrador_API\bin\roslyn\csc.exe
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\API203\Proyecto_Integrador_API\bin\roslyn\csc.exe.config
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\API203\Proyecto_Integrador_API\bin\roslyn\csc.rsp
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\API203\Proyecto_Integrador_API\bin\roslyn\csi.exe
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\API203\Proyecto_Integrador_API\bin\roslyn\csi.exe.config
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\API203\Proyecto_Integrador_API\bin\roslyn\csi.rsp
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\API203\Proyecto_Integrador_API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\API203\Proyecto_Integrador_API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\API203\Proyecto_Integrador_API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\API203\Proyecto_Integrador_API\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\API203\Proyecto_Integrador_API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\API203\Proyecto_Integrador_API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\API203\Proyecto_Integrador_API\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\API203\Proyecto_Integrador_API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\API203\Proyecto_Integrador_API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\API203\Proyecto_Integrador_API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\API203\Proyecto_Integrador_API\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\API203\Proyecto_Integrador_API\bin\roslyn\System.AppContext.dll
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\API203\Proyecto_Integrador_API\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\API203\Proyecto_Integrador_API\bin\roslyn\System.Console.dll
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\API203\Proyecto_Integrador_API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\API203\Proyecto_Integrador_API\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\API203\Proyecto_Integrador_API\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\API203\Proyecto_Integrador_API\bin\roslyn\System.IO.Compression.dll
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\API203\Proyecto_Integrador_API\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\API203\Proyecto_Integrador_API\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\API203\Proyecto_Integrador_API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\API203\Proyecto_Integrador_API\bin\roslyn\System.IO.Pipes.dll
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\API203\Proyecto_Integrador_API\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\API203\Proyecto_Integrador_API\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\API203\Proyecto_Integrador_API\bin\roslyn\System.Security.Claims.dll
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\API203\Proyecto_Integrador_API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\API203\Proyecto_Integrador_API\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\API203\Proyecto_Integrador_API\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\API203\Proyecto_Integrador_API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\API203\Proyecto_Integrador_API\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\API203\Proyecto_Integrador_API\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\API203\Proyecto_Integrador_API\bin\roslyn\System.Threading.Thread.dll
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\API203\Proyecto_Integrador_API\bin\roslyn\System.ValueTuple.dll
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\API203\Proyecto_Integrador_API\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\API203\Proyecto_Integrador_API\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\API203\Proyecto_Integrador_API\bin\roslyn\System.Xml.XPath.dll
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\API203\Proyecto_Integrador_API\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\API203\Proyecto_Integrador_API\bin\roslyn\vbc.exe
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\API203\Proyecto_Integrador_API\bin\roslyn\vbc.exe.config
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\API203\Proyecto_Integrador_API\bin\roslyn\vbc.rsp
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\API203\Proyecto_Integrador_API\bin\roslyn\VBCSCompiler.exe
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\API203\Proyecto_Integrador_API\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\API203\Proyecto_Integrador_API\bin\Antlr3.Runtime.dll
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\API203\Proyecto_Integrador_API\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\API203\Proyecto_Integrador_API\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\API203\Proyecto_Integrador_API\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\API203\Proyecto_Integrador_API\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\API203\Proyecto_Integrador_API\bin\Microsoft.AI.Web.dll
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\API203\Proyecto_Integrador_API\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\API203\Proyecto_Integrador_API\bin\Microsoft.ApplicationInsights.dll
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\API203\Proyecto_Integrador_API\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\API203\Proyecto_Integrador_API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\API203\Proyecto_Integrador_API\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\API203\Proyecto_Integrador_API\bin\Newtonsoft.Json.dll
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\API203\Proyecto_Integrador_API\bin\ProyectoIntegrador.Negocio.dll
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\API203\Proyecto_Integrador_API\bin\ProyectoIntegradorModelos.dll
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\API203\Proyecto_Integrador_API\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\API203\Proyecto_Integrador_API\bin\System.Net.Http.Formatting.dll
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\API203\Proyecto_Integrador_API\bin\System.Web.Helpers.dll
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\API203\Proyecto_Integrador_API\bin\System.Web.Http.dll
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\API203\Proyecto_Integrador_API\bin\System.Web.Http.WebHost.dll
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\API203\Proyecto_Integrador_API\bin\System.Web.Mvc.dll
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\API203\Proyecto_Integrador_API\bin\System.Web.Optimization.dll
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\API203\Proyecto_Integrador_API\bin\System.Web.Razor.dll
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\API203\Proyecto_Integrador_API\bin\System.Web.WebPages.Deployment.dll
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\API203\Proyecto_Integrador_API\bin\System.Web.WebPages.dll
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\API203\Proyecto_Integrador_API\bin\System.Web.WebPages.Razor.dll
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\API203\Proyecto_Integrador_API\bin\WebGrease.dll
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\API203\Proyecto_Integrador_API\bin\ProyectoIntegrador.Datos.dll
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\API203\Proyecto_Integrador_API\bin\ProyectoIntegrador.Negocio.pdb
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\API203\Proyecto_Integrador_API\bin\ProyectoIntegradorModelos.pdb
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\API203\Proyecto_Integrador_API\bin\Newtonsoft.Json.xml
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\API203\Proyecto_Integrador_API\bin\System.Net.Http.Formatting.xml
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\API203\Proyecto_Integrador_API\bin\System.Web.Helpers.xml
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\API203\Proyecto_Integrador_API\bin\System.Web.Http.xml
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\API203\Proyecto_Integrador_API\bin\System.Web.Http.WebHost.xml
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\API203\Proyecto_Integrador_API\bin\System.Web.Mvc.xml
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\API203\Proyecto_Integrador_API\bin\System.Web.Optimization.xml
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\API203\Proyecto_Integrador_API\bin\System.Web.Razor.xml
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\API203\Proyecto_Integrador_API\bin\System.Web.WebPages.xml
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\API203\Proyecto_Integrador_API\bin\System.Web.WebPages.Deployment.xml
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\API203\Proyecto_Integrador_API\bin\System.Web.WebPages.Razor.xml
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\API203\Proyecto_Integrador_API\bin\Antlr3.Runtime.pdb
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\API203\Proyecto_Integrador_API\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\API203\Proyecto_Integrador_API\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\API203\Proyecto_Integrador_API\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\API203\Proyecto_Integrador_API\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\API203\Proyecto_Integrador_API\bin\Microsoft.AI.Web.xml
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\API203\Proyecto_Integrador_API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\API203\Proyecto_Integrador_API\bin\ProyectoIntegrador.Datos.pdb
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\API203\Proyecto_Integrador_API\bin\es\System.Web.Helpers.resources.dll
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\API203\Proyecto_Integrador_API\bin\es\System.Web.Http.resources.dll
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\API203\Proyecto_Integrador_API\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\API203\Proyecto_Integrador_API\bin\es\System.Web.Mvc.resources.dll
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\API203\Proyecto_Integrador_API\bin\es\System.Web.Optimization.resources.dll
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\API203\Proyecto_Integrador_API\bin\es\System.Web.Razor.resources.dll
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\API203\Proyecto_Integrador_API\bin\es\System.Web.WebPages.resources.dll
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\API203\Proyecto_Integrador_API\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\API203\Proyecto_Integrador_API\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\API203\Proyecto_Integrador_API\obj\Debug\Proyecto_Integrador_API.csprojResolveAssemblyReference.cache
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\API203\Proyecto_Integrador_API\obj\Debug\Proyecto_Integrador_API.dll
+C:\Users\USUARIO\Desktop\Cibertec 5to ciclo\API203\Proyecto_Integrador_API\obj\Debug\Proyecto_Integrador_API.pdb

@@ -1,0 +1,6 @@
+D:\PROYECTO INTEGRADOR\PROYECTO_POKEMON\Proyecto_Integrador_API\ProyectoIntegradorModelos\bin\Debug\ProyectoIntegradorModelos.dll
+D:\PROYECTO INTEGRADOR\PROYECTO_POKEMON\Proyecto_Integrador_API\ProyectoIntegradorModelos\bin\Debug\ProyectoIntegradorModelos.pdb
+D:\PROYECTO INTEGRADOR\PROYECTO_POKEMON\Proyecto_Integrador_API\ProyectoIntegradorModelos\obj\Debug\ProyectoIntegradorModelos.csprojAssemblyReference.cache
+D:\PROYECTO INTEGRADOR\PROYECTO_POKEMON\Proyecto_Integrador_API\ProyectoIntegradorModelos\obj\Debug\ProyectoIntegradorModelos.csproj.CoreCompileInputs.cache
+D:\PROYECTO INTEGRADOR\PROYECTO_POKEMON\Proyecto_Integrador_API\ProyectoIntegradorModelos\obj\Debug\ProyectoIntegradorModelos.dll
+D:\PROYECTO INTEGRADOR\PROYECTO_POKEMON\Proyecto_Integrador_API\ProyectoIntegradorModelos\obj\Debug\ProyectoIntegradorModelos.pdb

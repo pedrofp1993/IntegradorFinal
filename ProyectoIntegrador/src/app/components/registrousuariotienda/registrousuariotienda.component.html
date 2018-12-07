@@ -1,0 +1,81 @@
+<form [formGroup]="formulario" (ngSubmit)="registrar()">
+    <div class ="container">
+        <div class="row justify-content-md-center">
+            
+                <div class = "col-md-6" [ngClass]="{'error': formulario.controls['RAZON_SOCIAL'].errors && formulario.controls['RAZON_SOCIAL'].touched }">
+                    <label> RAZON SOCIAL </label>
+                    <input formControlName="RAZON_SOCIAL" type="text" class = "form-control" >
+                </div>
+                <div class = "col-md-6" [ngClass]="{'error': formulario.controls['REP_LEGAL'].errors && formulario.controls['REP_LEGAL'].touched }">
+                        <label> REPRESENTANTE LEGAL </label>
+                        <input formControlName="REP_LEGAL" type="text" class = "form-control" >
+                </div>
+                <div class = "col-md-6" [ngClass]="{'error': formulario.controls['CORREO_UST'].errors && formulario.controls['CORREO_UST'].touched }">
+                    <label> CORREO ELECTRONICO </label>
+                    <input formControlName="CORREO_UST" type="text" class = "form-control" >
+                </div>
+                <div class = "col-md-6" [ngClass]="{'error': formulario.controls['DIRECCION'].errors && formulario.controls['DIRECCION'].touched }">
+                    <label> DIRECCION </label>
+                    <input formControlName="DIRECCION" type="text" class = "form-control">
+                </div>
+                <div class = "col-md-6" [ngClass]="{'error': formulario.controls['TELEFONO'].errors && formulario.controls['TELEFONO'].touched }">
+                    <label> TELEFONO </label>
+                    <input formControlName="TELEFONO" type="text" class = "form-control" >
+                </div>
+                <div class = "col-md-6" [ngClass]="{'error': formulario.controls['FECHA_CONSTITU'].errors && formulario.controls['FECHA_CONSTITU'].touched }">
+                    <label> FECHA CREACION DE TIENDA </label>
+                    <input formControlName="FECHA_CONSTITU" type="text" class = "form-control" >
+                </div>
+                <div class = "col-md-6" [ngClass]="{'error': formulario.controls['RUC'].errors && formulario.controls['RUC'].touched }">
+                    <label> RUC </label>
+                    <input formControlName="RUC" type="text" class = "form-control" >
+                </div>
+                <div class = "col-md-6" [ngClass]="{'error': formulario.controls['ID_USU_TIENDA'].errors && formulario.controls['ID_USU_TIENDA'].touched }">
+                    <label> ID USUARIO </label>
+                    <input formControlName="ID_USU_TIENDA" type="text"class = "form-control" >
+                </div>
+                <div class = "col-md-6" [ngClass]="{'error': formulario.controls['CONTRA_USU_TIENDA'].errors && formulario.controls['CONTRA_USU_TIENDA'].touched }">
+                    <label> CONTRASEÑA  </label>
+                    <input formControlName="CONTRA_USU_TIENDA" type="text" class = "form-control" >
+                </div>
+                <div class = "col-md-6">
+                    
+                </div>
+                <div class = "col-md-6" >
+                    <button type="submit" class="btn btn-primary btn-lg btn-block">Registrar</button>
+                </div>
+                <div class = "col-md-6">
+                    <button type="button" class="btn btn-danger btn-lg btn-block">Cancelar</button>
+                </div>
+            
+    
+                <div class="ui message" *ngIf="bulean == false && formulario.invalid ">
+
+                    <ul class="list">
+                    <li *ngIf="formulario.get('RAZON_SOCIAL').errors?.required">No ingreso razon social.</li>
+                    <li *ngIf="formulario.get('REP_LEGAL').errors?.required">No ingreso representante legal.</li>
+                    <li *ngIf="formulario.get('CORREO_UST').errors?.required ">No ingreso email.</li>
+                    <li *ngIf="formulario.get('CORREO_UST').errors?.pattern">Email invalido.</li>
+                    <li *ngIf="formulario.get('DIRECCION').errors?.required">No ingreso la dirección.</li>
+                    <li *ngIf="formulario.get('TELEFONO').errors?.required">No ingreso el telefono.</li>
+                    <li *ngIf="formulario.get('FECHA_CONSTITU').errors?.required">No ingreso la fecha de creacion.</li>
+                    <li *ngIf="formulario.get('RUC').errors?.required">No ingreso el RUC.</li>
+                    <li *ngIf="formulario.get('RUC').errors?.pattern">RUC invalido.</li>
+                    <li *ngIf="formulario.get('ID_USU_TIENDA').errors?.required ">No ingreso el ID.</li>
+                    <li *ngIf="formulario.get('CONTRA_USU_TIENDA').errors?.pattern ">No ingreso la contraseña.</li>
+                    </ul>
+                    
+                </div>
+                <div class="ui message" *ngIf="bulean">
+                    <div>
+                        <div class="alert alert-primary" role="alert">
+                            A simple primary alert—check it out!
+                        </div>
+                    </div>
+                </div>
+            
+        </div>
+    </div>
+    </form>
+    
+

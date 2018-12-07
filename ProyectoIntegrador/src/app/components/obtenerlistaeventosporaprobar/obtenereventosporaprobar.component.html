@@ -1,0 +1,15 @@
+<div class ="container">
+    <div class="row justify-content-md-center">
+<div class="card w-75" *ngFor="let e of evento">
+    <div class="card-body">
+      <h5 class="card-title">{{e.NOM_EVEN}}</h5>
+      <p class="card-text">{{e.DIRECCION}}</p>
+      <p class="card-text">{{e.FECH_INI}}</p>
+      <p class="card-text">{{e.FECH_FIN}}</p>
+      <p class="card-text">{{e.DESC_EVEN}}</p>
+      <a class="btn btn-primary" (click)="aprobar()">Aprobar evento</a>
+      <a class="btn btn-secondary" (click)="desaprobar()">Desaprobar evento</a>
+    </div>
+  </div>
+  </div>
+</div>

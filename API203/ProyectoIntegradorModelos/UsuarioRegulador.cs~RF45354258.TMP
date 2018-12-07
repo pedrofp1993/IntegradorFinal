@@ -1,0 +1,19 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ProyectoIntegradorModelos
+{
+    public class UsuarioRegulador
+    {
+        public int COD_REG { get; set; }
+        public string NOM_REG { get; set; }
+        public string APE_REG { get; set; }
+        public string CORREO { get; set; }
+        public int CATEGORIA { get; set; }
+        public int NIVEL { get; set; }
+        public string COD_ID { get; set; }
+    }
+}

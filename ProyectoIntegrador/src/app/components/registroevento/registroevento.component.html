@@ -1,0 +1,67 @@
+<form [formGroup]="formulario" (ngSubmit)="registrar()">
+  <div class = "container">
+    <div class="row justify-content-md-center">
+      <div class = "col-md-6" [ngClass]="{'error': formulario.controls['NOMBRE_EVEN'].errors && formulario.controls['NOMBRE_EVEN'].touched }">
+        <label> Nombre evento </label>
+        <input formControlName="NOMBRE_EVEN" type="text" class = "form-control" >
+      </div>
+      <div class = "col-md-6" [ngClass]="{'error': formulario.controls['DESCRIPCION'].errors && formulario.controls['DESCRIPCION'].touched }">
+        <label> Descripcion evento </label>
+        <input formControlName="DESCRIPCION" type="text" class = "form-control" >
+      </div>
+      <div class = "col-md-6" [ngClass]="{'error': formulario.controls['INFO'].errors && formulario.controls['INFO'].touched }">
+        <label> Informacion Adicional evento </label>
+        <input formControlName="INFO" type="text" class = "form-control" >
+      </div>
+      <div class = "col-md-6" [ngClass]="{'error': formulario.controls['FECHA_INIC'].errors && formulario.controls['FECHA_INIC'].touched }">
+        <label> Fecha evento inicio </label>
+        <input formControlName="FECHA_INIC" type="text" class = "form-control" >
+      </div>
+      <div class = "col-md-6" [ngClass]="{'error': formulario.controls['FEHA_FIN'].errors && formulario.controls['FEHA_FIN'].touched }">
+        <label> Fecha evento fin </label>
+        <input formControlName="FEHA_FIN" type="text" class = "form-control" >
+      </div>
+      <div class = "col-md-6" [ngClass]="{'error': formulario.controls['CIUDAD'].errors && formulario.controls['CIUDAD'].touched }">
+        <label> Ciudad evento </label>
+        <input formControlName="CIUDAD" type="text" class = "form-control" >
+      </div>
+      <div class = "col-md-6" [ngClass]="{'error': formulario.controls['DIRECCION'].errors && formulario.controls['DIRECCION'].touched }">
+        <label> Direccion evento </label>
+        <input formControlName="DIRECCION" type="text" class = "form-control" >
+      </div>
+      <div class = "col-md-6" [ngClass]="{'error': formulario.controls['REFRENCIA'].errors && formulario.controls['REFRENCIA'].touched }">
+        <label> Referencia evento </label>
+        <input formControlName="REFRENCIA" type="text" class = "form-control" >
+      </div>
+      <div class = "col-md-6" [ngClass]="{'error': formulario.controls['CANTIDAD'].errors && formulario.controls['CANTIDAD'].touched }">
+        <label> Cantidad de entradas evento </label>
+        <input formControlName="CANTIDAD" type="text" class = "form-control" >
+      </div>
+      <div class = "col-md-6" [ngClass]="{'error': formulario.controls['PRECIO'].errors && formulario.controls['PRECIO'].touched }">
+        <label> Precio entrada evento </label>
+        <input formControlName="PRECIO" type="text" class = "form-control" >
+      </div>
+      <div class = "col-md-6" >
+        <button type="submit" class="btn btn-primary btn-lg btn-block">Registrar</button>
+      </div>
+      <div class = "col-md-6">
+       <button type="button" class="btn btn-danger btn-lg btn-block">Cancelar</button>
+      </div>
+      <div class="ui message" *ngIf="bulean == false && formulario.invalid">
+        <div class="header">Existen errores</div>
+        <ul class="list">
+        <li *ngIf="formulario.get('NOMBRE_EVEN').errors?.required">No ingreso nombre.</li>
+        <li *ngIf="formulario.get('DESCRIPCION').errors?.required ">No ingreso descripcion.</li>
+        <li *ngIf="formulario.get('INFO').errors?.required">No ingreso la informacion.</li>
+        <li *ngIf="formulario.get('FECHA_INIC').errors?.required">No ingreso la fecha inicio.</li>
+        <li *ngIf="formulario.get('FEHA_FIN').errors?.required">No ingreso la fecha fin.</li>
+        <li *ngIf="formulario.get('CIUDAD').errors?.required">No ingreso la ciudad.</li>
+        <li *ngIf="formulario.get('DIRECCION').errors?.required ">No ingreso la direccion.</li>
+        <li *ngIf="formulario.get('REFRENCIA').errors?.required ">No ingreso la referencia.</li>
+        <li *ngIf="formulario.get('CANTIDAD').errors?.required ">No ingreo cantidad de entradas.</li>
+        <li *ngIf="formulario.get('PRECIO').errors?.required ">No ingreso precio.</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</form>

@@ -1,0 +1,54 @@
+<form [formGroup]="formulario" (ngSubmit)="actualizar()">
+  <div class ="container">
+      <div class="row justify-content-md-center">
+          <div class = "col-md-3">
+            <label> ID </label>
+          </div>
+          <div class = "col-md-9" [ngClass]="{'error': formulario.controls['COD_JUGADOR'].errors && formulario.controls['COD_JUGADOR'].touched }">      
+            <input formControlName="COD_JUGADOR" type="text" class = "form-control" >
+          </div>
+          <div class = "col-md-3">
+            <label> CORREO ELECTRONICO </label>
+          </div>
+          <div class = "col-md-9" [ngClass]="{'error': formulario.controls['CORREO_ELECTRONICO'].errors && formulario.controls['CORREO_ELECTRONICO'].touched }">
+            <input formControlName="CORREO_ELECTRONICO" type="text" class = "form-control" >
+          </div>
+          <div class = "col-md-3">
+              <label> DIRECCION </label>
+          </div>
+          <div class = "col-md-9" [ngClass]="{'error': formulario.controls['DIRECCION'].errors && formulario.controls['DIRECCION'].touched }">       
+            <input formControlName="DIRECCION" type="text" class = "form-control" >
+          </div>
+          <div class = "col-md-3">
+              <label> CIUDAD </label>
+          </div>
+          <div class = "col-md-9" [ngClass]="{'error': formulario.controls['CIUDAD'].errors && formulario.controls['CIUDAD'].touched }">
+            <select formControlName="CIUDAD" class="custom-select custom-select-md mb-3">
+              <option selected>Elegir ciudad</option>
+              <option value="1">Lima</option>
+              <option value="2">Arequipa</option>
+              <option value="3">Three</option>
+            </select>
+          </div>
+          <div class = "col-md-6" >
+            <button type="submit" class="btn btn-primary btn-lg btn-block">Actualizar</button>
+          </div>
+          <div class = "col-md-6">
+            <button type="button" class="btn btn-danger btn-lg btn-block">Cancelar</button>
+          </div>
+          
+  
+              <div class="ui message" *ngIf="onSubmit && formulario.invalid">
+                  <div class="header">Existen errores</div>
+                  <ul class="list">
+                  <li *ngIf="formulario.get('COD_JUGADOR').errors?.required ">No ingreso email.</li>
+                  <li *ngIf="formulario.get('CORREO_ELECTRONICO').errors?.required ">No ingreso email.</li>
+                  <li *ngIf="formulario.get('DIRECCION').errors?.required">No ingreso la dirección.</li>
+                  <li *ngIf="formulario.get('CIUDAD').errors?.required">No ingreso la ciudad.</li>
+              
+                  </ul>
+              </div>
+          
+      </div>
+  </div>
+  </form>

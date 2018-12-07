@@ -1,0 +1,15 @@
+/* You can add global styles to this file, and also import other style files */
+.main-container{
+  margin-top:40px;
+  margin-left: 600px;
+}
+.main-container input{
+  margin-bottom: 10px;
+  width: 400px;
+  margin-left: 100px;
+  
+}
+.main-container a{
+  width: 400px;
+
+}

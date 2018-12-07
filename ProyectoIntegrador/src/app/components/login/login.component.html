@@ -1,0 +1,42 @@
+
+    <div class ="container">
+        <div class="row justify-content-md-center">
+            
+                <div class = "col-md-12" >
+                    <label> Usuario </label>
+                    <input [(ngModel)]="usuario" type="text" class = "form-control">
+                </div>
+                <div class = "col-md-12" >
+                        <label> Contraseña </label>
+                        <input  [(ngModel)]="password" type="text" class = "form-control">
+                </div>
+                
+                <div class = "col-md-12">
+                    <label for="codigo">Tipo:</label>
+                    <select [(ngModel)]="tipoUsuario" name="codigo" id="codigo" class="custom-select form-control" >
+                      <option value="0" selected>Seleccione un tipo</option>
+                      <option  *ngFor="let t of tipo" value="{{t.ID_USU}}">{{t.ID_USU}}</option>
+                    </select>
+                  </div>
+
+                
+                <div class = "col-md-12" >
+                    <button type="submit" class="btn btn-primary btn-lg btn-block" (click)="loggin()">Ingresar</button>
+                </div>
+                
+            
+    
+                <div class="ui message" *ngIf="bulean == false && formulario.invalid">
+                    <div class="header">Existen errores</div>
+        
+                </div>
+                <div class="ui message" *ngIf="bulean">
+                        <div>
+                            <div class="alert alert-primary" role="alert">
+                                A simple primary alert—check it out!
+                            </div>
+                        </div>
+                    </div>
+        </div>
+    </div>
+    
