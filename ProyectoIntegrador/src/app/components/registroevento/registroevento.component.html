@@ -15,11 +15,11 @@
       </div>
       <div class = "col-md-6" [ngClass]="{'error': formulario.controls['FECHA_INIC'].errors && formulario.controls['FECHA_INIC'].touched }">
         <label> Fecha evento inicio </label>
-        <input formControlName="FECHA_INIC" type="text" class = "form-control" >
+        <input formControlName="FECHA_INIC" type="date" class = "form-control" >
       </div>
       <div class = "col-md-6" [ngClass]="{'error': formulario.controls['FEHA_FIN'].errors && formulario.controls['FEHA_FIN'].touched }">
         <label> Fecha evento fin </label>
-        <input formControlName="FEHA_FIN" type="text" class = "form-control" >
+        <input formControlName="FEHA_FIN" type="date" class = "form-control" >
       </div>
       <div class = "col-md-6" [ngClass]="{'error': formulario.controls['CIUDAD'].errors && formulario.controls['CIUDAD'].touched }">
         <label> Ciudad evento </label>

@@ -64,7 +64,6 @@ export class NavbarComponent implements OnInit {
   obtenerNombre(){
     
     this.nombre = this._loginservice.getIDLoggedIn();
-    console.log(this.nombre);
   }
 
 }

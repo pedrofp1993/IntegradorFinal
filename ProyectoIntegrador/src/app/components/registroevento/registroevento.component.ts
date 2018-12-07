@@ -14,6 +14,9 @@ export class RegistroeventoComponent implements OnInit {
   onSubmit: boolean = false;
   evento: evento;
   bulean: boolean = null;
+  hoy:Date = new Date();
+  dia:string[] ;
+  diafin:string[];
   constructor(private _eventoService: Eventoservice,
               private _router:Router) { 
                 this.formulario = new FormGroup({
@@ -49,12 +52,20 @@ export class RegistroeventoComponent implements OnInit {
       PRECIO: this.formulario.controls['PRECIO'].value,
       ID_USU_TIENDA: JSON.parse(localStorage.getItem('currentID')),
     }
-
+    this.dia = this.evento.FECHA_INIC.split("-");
+    this.diafin = this.evento.FEHA_FIN.split("-");
     console.log(this.evento);
-    if(this.formulario.valid){
+    if(this.formulario.valid && parseInt(this.dia[2]) >= this.hoy.getDay() && parseInt(this.dia[1]) >= this.hoy.getMonth() && parseInt(this.dia[0]) >= this.hoy.getFullYear()
+        && parseInt(this.diafin[2]) >= parseInt(this.dia[2]) && parseInt(this.diafin[1]) >= parseInt(this.dia[1]) && parseInt(this.diafin[0]) >= parseInt(this.dia[0])
+       // ||  parseInt(this.dia[2]) >= this.hoy.getDay() && parseInt(this.dia[1]) <= this.hoy.getMonth() && parseInt(this.dia[0]) > this.hoy.getFullYear()     
+       // && parseInt(this.diafin[2]) >= parseInt(this.dia[2]) && parseInt(this.diafin[1]) >= parseInt(this.dia[1]) && parseInt(this.diafin[0]) > parseInt(this.dia[0])
+       ){
       this.bulean = true;
     this._eventoService.registro(this.evento)
       .subscribe(data => {
+        console.log(this.dia[2])
+        console.log(this.dia[1])
+        console.log(this.dia[0])
         console.log(data);
         //this.router.navigate(['/heroe',data['name']])
       },
@@ -63,11 +74,13 @@ export class RegistroeventoComponent implements OnInit {
         this._router.navigate(['/home']);
       
     } else {
+      window.alert("Ocurrio un error por favor revise los campos nuevamente");
       console.log("ERROR");
     }
   }
 
   ngOnInit() {
+    console.log(this.hoy);
   }
 
 }

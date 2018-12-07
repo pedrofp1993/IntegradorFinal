@@ -13,6 +13,7 @@ export class RegistrousuarioreguladorComponent implements OnInit {
   onSubmit: boolean = false;
   usuario: Usuarioregulador;
   bulean: boolean = null;
+  hoy:Date = new Date();
   constructor(private _usuarioreguladorService: Usuarioreguladorservice,
     private _router:Router) { 
         this.formulario = new FormGroup({
@@ -58,6 +59,8 @@ export class RegistrousuarioreguladorComponent implements OnInit {
       }
     }
   ngOnInit() {
+    console.log(this.hoy);
   }
+
 
 }
